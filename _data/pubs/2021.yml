@@ -1,0 +1,96 @@
+############## ICRA Papers ##########################
+
+- title: "DRACO: Weakly Supervised Dense Reconstruction And Canonicalization of Objects"
+  authors: Rahul Sajnani\*, AadilMehdi Sanchawala\*, Krishna Murthy Jatavallabhula, Srinath Sridhar and K. Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
+  link:
+    url: https://aadilmehdis.github.io/DRACO-Project-Page/
+    display: Project Page
+
+# - title: "Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots"
+#   authors: B.B. Kocer, M.A. Hady, K. Harikumar, M. Pratama and M. Kovac
+
+#   venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
+#   link:
+#     url: /2021/Deep-Neuromorphic-Controller
+#     display: Project Page
+
+############## ECC 21 Papers ##########################
+
+- title: "Probabilistic Inverse Velocity Obstacle for Free Flying Quadrotors"
+  authors: Ishaan Khare, Jyotish Poonganam, Bharath Gopalakrishnan and K. Madhava Krishna
+
+  venue: IEEE European Control Conference (ECC), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "Non Holonomic Collision Avoidance under Non-Parametric Uncertainty: A Hilbert Space Approach"
+  authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
+
+  venue: IEEE European Control Conference (ECC), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "Incorporating Prediction in Control Barrier Function Based Distributive Multi-Robot Collision Avoidance"
+  authors: Pravin Mali, K. Harikumar, Arun Kumar Singh, K. Madhava Krishna and P.B. Sujit
+
+  venue: IEEE European Control Conference (ECC), 2021
+  link:
+    url:
+    display: Project Page 
+
+#################### Visapp Papers #################################
+
+- title: "Multi-View Planarity Constraints for Skyline Estimation from UAV Images in City Scale Urban Environments"
+  authors: Ayyappa Swamy Thatavarthy, Tanu Sharma, Harshit Sankhla, Mukul Khanna and K. Madhava Krishna
+
+  venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "Early Bird: Loop Closures from Opposing Viewpoints for Perceptually-Aliased Indoor Environments"
+  authors: Satyajit Tourani, Dhagash Desai, Udit Singh Parihar, Sourav Garg, Ravi Kiran Sarvadevabhatla, 
+           Michael Milford and K. Madhava Krishna
+
+  venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "BirdSLAM: Monocular Multibody SLAM in Bird's-Eye View"
+  authors: Swapnil Daga, Gokul B. Nair, Anirudha Ramesh, Rahul Sajnani, Junaid Ahmed Ansari and K. Madhava Krishna. 
+
+  venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
+  link:
+    url:
+    display: Project Page
+
+
+#################### CRV Papers #################################
+
+- title: "A new geometric approach for three view line reconstruction and motion estimation in Manhattan Scenes"
+  authors: Ayyappa Swamy Thatavarthy, Tanu Sharma and K. Madhava Krishna
+
+  venue: Conference on Robots and Vision (CRV), 2021
+  link:
+    url:
+    display: Project Page
+
+- title: "Building Facades to Normal Maps: Adversarial Learning from Single View Images"
+  authors: Mukul Khanna\*, Tanu Sharma\*, Ayyappa Swamy Thatavarthy and K. Madhava Krishna
+
+  venue: Conference on Robots and Vision (CRV), 2021
+  link:
+    url:
+    display: Project Page
+
+
+#################### IV Papers #################################
+
+
+
+

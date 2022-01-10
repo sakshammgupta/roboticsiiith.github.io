@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+        <div class="publication">
+
+        <h1 class="text-center">{{ page.title }}</h1>
+        <p class="text-center">
+        {% for author in page.authors %}
+            {{ author.name }}<sup class="mr-3">{{ author.sup }} </sup> &nbsp;&nbsp;
+        {% endfor %}
+        </p>
+        <p class="text-center">
+        {% for affiliation in page.affiliations %}
+            <a href="{{ affiliation.link }}" class="text-dark mr-3"><sup>{{ affiliation.sup }}</sup> {{ affiliation.name }}</a> &nbsp;&nbsp;
+        {% endfor %}
+        </p>
+        <hr class="my-3">
+            {% if page.video %}
+            <div class="embed-responsive embed-responsive-16by9">
+                <video controls>
+                    <source src="{{ page.video }}" type="video/mp4">
+                    This browser doesn't support HTML5 video tags!
+                </video>
+            </div>
+            <hr class="my-5">
+            {% endif %}
+            {% if page.iframe %}
+            <iframe class="embed-responsive embed-responsive-16by9" style="height: 70vh;" src="{{ page.iframe }}">
+            </iframe>
+            <hr class="my-5">
+            {% endif %}
+            <p class="text-center">
+                {{ page.abstract }}
+            </p>
+            <div class="text-center">
+                {% if page.paper %}<a href="{{ page.paper }}" class="btn btn-primary">Download paper</a>{% endif %}
+                {% if page.code %}<a href="{{ page.code }}" class="btn btn-primary">Download code</a>{% endif %}
+            </div>
+    </div >
+    
+        <br>

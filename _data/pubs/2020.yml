@@ -1,0 +1,115 @@
+- title: "DeepMPCVS: Deep Model Predictive Control for Visual Servoing"
+  authors: Pushkal Katara, YVS Harish, Harit Pandya, Abhinav Gupta, AadilMehdi Sanchawala, Gourav Kumar, 
+           Brojeshwar Bhowmick and K. Madhava Krishna
+
+  venue: Conference on Robot Learning (CoRL), 2020
+  link:
+    url: https://corlconf.github.io/corl2020/paper_448/
+    display: Project Page
+
+- title: "Understanding Dynamic Scenes using Graph Convolution Networks"
+  authors: Sravan Mylavarapu*, Mahtab Sandhu*, Priyesh Vijayan, K. Madhava Krishna, Balaraman Ravindran, Anoop Namboodiri
+
+  venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors"
+  authors: Viswa N. Sankaranarayanan, Spandan Roy, Simone Baldi
+
+  venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "LiDAR Guided Small Obstacle Segmentation"
+  authors: Asheesh Singh, Aditya Kamireddypalli, Vineet Gandhi and K. Madhava Krishna
+
+  venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Solving Chance Constrained Optimization under Non-Parametric Uncertainty Through Hilbert Space Embedding"
+  authors: Bharath Gopalakrishnan, Arun Kumar Singh, K. Madhava Krishna and Dinesh Manocha
+
+  venue: IEEE Transactions on Control Systems Technology (ITCST), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "SROM: Simple Real-time Odometry and Mapping using LiDAR data for Autonomous Vehicles"
+  authors: Nivedita Rufus, Unni Krishnan R. Nair, A.V.S Sai Bhargav Kumar, Vashist Madiraju and K. Madhava Krishna
+
+  venue: IEEE Intelligent Vehicles Symposium (IV), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Multi-Object Monocular SLAM for Dynamic Environments"
+  authors: Gokul B Nair, Swapnil Daga, Rahul Sajnani, Anirudha Ramesh, Junaid Ahmed Ansari, J. Krishna Murthy 
+           and K. Madhava Krishna
+
+  venue: IEEE Intelligent Vehicles Symposium (IV), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Bi-Convex Approximation of Non-Holonomic Trajectory Optimization"
+  authors: Arun Kumar Singh, Raghu Ram Theerthala, Mithun Babu, Unni Krishnan R Nair and K. Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Omnidirectional Tractable Three Module Robot"
+  authors: Kartik Suryavanshi, Rama Vadapalli, Ruchitha Vucha, Abhishek Sarkar and K Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "DFVS: Deep Flow Guided Scene Agnostic Image Based Visual Servoing"
+  authors: Y V S Harish, Harit Pandya, Ayush Gaud, Shreya Terupally, Sai Shankar and K. Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Topological Mapping for Manhattan-like Repetitive Environments"
+  authors: Sai Shubodh Puligilla\*, Satyajit Tourani\*, Tushar Vaidya\*, Udit Singh Parihar, Ravi Kiran Sarvadevabhatla 
+           and K. Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Reactive Navigation under Uncertainty through Hilbert Space Embedding of Probabilistic Velocity Obstacles"
+  authors: SriSai Naga Jyotish Poonganam\*, Bharath Gopalakrishnan\*, 
+           Venkata Seetharama Sai Bhargav Kumar Avula, Arun Kumar Singh, K. Madhava Krishna and Dinesh Manocha 
+
+  venue: IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (ICRA + RA-L), 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "Introducing Switched Adaptive Control for Quadrotors for Vertical Operations"
+  authors: Viswa N. Sankaranarayanan and Spandan Roy
+
+  venue: Optimal Control Applications and Methods, 2020
+  link:
+    url: 
+    display: Project Page
+
+- title: "MonoLayout: Amodal scene layout from a single image"
+  authors: Kaustubh Mani, Swapnil Daga, Shubhika Garg, N. Sai Shankar, J. Krishna Murthy and K. Madhava Krishna
+
+  venue: Winter Conference on Applications of Computer Vision, 2020
+  link:
+    url: 
+    display: Project Page
