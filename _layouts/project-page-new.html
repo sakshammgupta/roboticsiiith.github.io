@@ -17,6 +17,7 @@ layout: default
         </p>
         <hr class="my-3">
             {% if page.video %}
+            
             <div class="embed-responsive embed-responsive-16by9">
                 <video controls>
                     <source src="{{ page.video }}" type="video/mp4">
@@ -26,15 +27,18 @@ layout: default
             <hr class="my-5">
             {% endif %}
             {% if page.iframe %}
-            <iframe class="embed-responsive embed-responsive-16by9" style="height: 70vh;" src="{{ page.iframe }}">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive" style="height: 100%;" src="{{ page.iframe }}">
             </iframe>
+            </div>
             <hr class="my-5">
             {% endif %}
-            <p class="text-center">
+            <p class="text-center text-justify">
                 {{ page.abstract }}
             </p>
             <div class="text-center">
                 {% if page.paper %}<a href="{{ page.paper }}" class="btn btn-primary">Download paper</a>{% endif %}
+                {% if page.supplement %}<a href="{{ page.supplement }}" class="btn btn-primary">Download supplement</a>{% endif %}
                 {% if page.code %}<a href="{{ page.code }}" class="btn btn-primary">Download code</a>{% endif %}
             </div>
     </div >
