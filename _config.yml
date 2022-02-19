@@ -20,8 +20,9 @@ include:
   - _pages
   - css
   - _data
-  - _include
+  - _includes
   - images
+  - _layouts
 
 
 sass:
