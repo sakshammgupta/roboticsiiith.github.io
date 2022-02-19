@@ -40,7 +40,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b> 
   <em>{{ publi.authors }} </em> <br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -53,7 +53,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 	
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -65,7 +65,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -77,7 +77,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -89,7 +89,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -101,7 +101,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -113,7 +113,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -125,7 +125,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -137,7 +137,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -149,7 +149,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -161,7 +161,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -173,7 +173,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -185,7 +185,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -197,7 +197,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -209,7 +209,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -221,7 +221,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -233,7 +233,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -245,7 +245,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -257,7 +257,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -269,7 +269,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -281,7 +281,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   
   <b> {{ publi.title }} <br /> </b>
   <em>{{ publi.authors }} </em><br />
-  Published at {{ publi.venue }} &nbsp; [<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>]
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
 
 {% endfor %}
 
@@ -305,7 +305,7 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
