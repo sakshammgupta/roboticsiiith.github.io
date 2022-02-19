@@ -18,6 +18,10 @@ url: ""
 include:
   - .htaccess
   - _pages
+  - css
+  - _data
+  - _include
+  
 
 sass:
   sass_dir: _sass
