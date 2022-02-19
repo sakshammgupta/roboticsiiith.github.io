@@ -21,7 +21,8 @@ include:
   - css
   - _data
   - _include
-  
+  - images
+
 
 sass:
   sass_dir: _sass
@@ -35,7 +36,7 @@ incremental: false
 
 domain: rahulsajnani.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rahulsajnani.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /RRC-new-website/      # place folder name if the site is served in a subfolder
+baseurl: /RRC-new-website    # place folder name if the site is served in a subfolder
 
 
 
