@@ -1,3 +1,11 @@
+- title: "Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors"
+  authors: Viswa N. Sankaranarayanan, Spandan Roy, and Simone Baldi
+
+  venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
+  link:
+    url: publications/2020/Sankaranarayanan_Aerial-Transportation
+    display: Project Page
+
 - title: "DeepMPCVS: Deep Model Predictive Control for Visual Servoing"
   authors: Pushkal Katara, YVS Harish, Harit Pandya, Abhinav Gupta, AadilMehdi Sanchawala, Gourav Kumar, 
            Brojeshwar Bhowmick and K. Madhava Krishna
