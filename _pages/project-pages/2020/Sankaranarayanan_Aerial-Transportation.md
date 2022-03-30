@@ -12,12 +12,17 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-  - name: School of Mathematics, Southeast University, Nanjing, China & TU-Delft, Netherlands
+  - name: TCS Research and Innovation Labs, Kolkata, India
     link: #
     sup: 2
-permalink: publications/2020/Sankaranarayanan_Aerial-Transportation
-abstract: "With the advent of intelligent transport, quadrotors are becoming an attractive aerial transport solution during emergency evacuations, construction works etc. During such operations, dynamic variations in (possibly unknown) payload and unknown external disturbances cause considerable control challenges for path tracking algorithms. In fact, the state-dependent nature of the resulting uncertainties makes state-of-the-art adaptive control solutions ineffective against such uncertainties that can be completely unknown and possibly unbounded a priori. This paper, to the best of the knowledge of the authors, proposes the first adaptive control solution for quadrotors, which does not require any a priori knowledge of the parameters of quadrotor dynamics as well as of external disturbances. The stability of the closed-loop system is studied analytically via Lyapunov theory and the effectiveness of the proposed solution is verified on a realistic simulator."
-paper: https://robotics.iiit.ac.in/uploads/Main/Publications/viswa_etal_iros20.pdf
-iframe: https://www.youtube.com/embed/fwpKMemp_BA
+  - name: University of Lincoln, UK
+    link: #
+    sup: 3
+permalink: publications/2020/DeepMPCVS
+abstract: "The simplicity of the visual servoing approach makes it an attractive option for tasks dealing with vision-based control of robots in many real-world applications. However, attaining precise alignment for unseen environments pose a challenge to existing visual servoing approaches. While classical approaches assume a perfect world, the recent data-driven approaches face issues when generalizing to novel environments. In this paper, we aim to combine the best of both worlds. We present a deep model predictive visual servoing framework that can achieve precise alignment with optimal trajectories and can generalize to novel environments. Our framework consists of a deep network for optical flow predictions, which are used along with a predictive model to forecast future optical flow. For generating an optimal set of velocities we present a control network that can be trained on-the-fly without any supervision. Through extensive simulations on photo-realistic indoor settings of the popular Habitat framework, we show significant performance gain due to the proposed formulation vis-a-vis recent state of the art methods. Specifically, we show a faster convergence and an improved performance in trajectory length over recent approaches."
+paper: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/preprint.pdf
+supplement: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/supplementary.pdf
+video: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/video.mp4
+# iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---
