@@ -1,4 +1,12 @@
-- title: "PIVO: Probabilistic Inverse Velocity Obstacle for Navigation under Uncertainty"
+- title: "Model Predictive Control for Autonomous Driving considering Actuator Dynamics"
+  authors: Mithun Babu, Raghu Ram Theerthala, Arun Kumar Singh, Baladhurgesh B.P., Bharath Gopalakrishnan, 
+           K. Madhava Krishna, Shanti Medasani
+
+  venue: IEEE American Control Conference (ACC), 2019
+  link:
+    url: publications/2019/Babu_Model-Predictive-Control
+    display: Project Page
+
   authors: P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava Krishna
 
   venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
