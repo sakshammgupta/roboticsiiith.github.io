@@ -6,9 +6,9 @@
   title: Learning to Prevent Monocular SLAM Failure using Reinforcement Learning
   venue: ICVGIP 2018
 - authors: Ganesh Iyer, R. Karnik Ram, J. Krishna Murthy, and K. Madhava Krishna
-  link:
+  link: 
     display: Project page
-    url: https://robotics.iiit.ac.in/uploads/Main/Publications/Ganesh_et_al_iros18.html
+    url: publications/2018/Prasad_Learning-to-Prevent-Monocular
   title: 'CalibNet: Geometrically Supervised Extrinsic Calibration using 3D Spatial
     Transformer Networks'
   venue: IROS 2018
