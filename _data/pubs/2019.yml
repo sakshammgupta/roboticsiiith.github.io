@@ -1,3 +1,11 @@
+- title: "Probabilistic obstacle avoidance and object following: An overlap of Gaussians approach"
+  authors: Dhaivat Bhatt*, Akash Garg*, Bharath Gopalakrishnan, K. Madhava Krishna
+
+  venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
+  link:
+    url: publications/2019/Bhatt_Probabilistic-Obstacle-Avoidance
+    display: Project Page
+
 - title: "IVO: Inverse Velocity Obstacles for Real Time Navigation"
   authors: P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava Krishna
 
