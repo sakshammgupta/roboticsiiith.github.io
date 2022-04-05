@@ -27,7 +27,7 @@
   authors: Asheesh Singh, Aditya Kamireddypalli, Vineet Gandhi and K. Madhava Krishna
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
-  link:
+  link: 
     url: publications/2020/Singh_LiDAR
     display: Project Page
 
@@ -36,7 +36,7 @@
 
   venue: IEEE Transactions on Control Systems Technology (ITCST), 2020
   link:
-    url: 
+    url: publications/2020/Gopalakrishnan_Solving-Chance-Constrained-Optimization
     display: Project Page
 
 - title: "SROM: Simple Real-time Odometry and Mapping using LiDAR data for Autonomous Vehicles"
