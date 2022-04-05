@@ -43,9 +43,9 @@
   title: Trajectory Planning for Monocular SLAM Systems
   venue: MSC 2013
 - authors: Karthik Desingh, K Madhava Krishna, C. V. Jawahar and Deepu Rajan
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Karthik_etal_BMVC_13.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Karthik_etal_BMVC_13.pdf
+    url: publications/2013/Desingh_Depth-really-Matters
   title: 'Depth really Matters: Improving Visual Salient Region Detection with Depth'
   venue: BMVC  2013
 - authors: S. Avinash, V. V. Anurag, A. K. Singh, S. V. Shah and K. Madhava Krishna
