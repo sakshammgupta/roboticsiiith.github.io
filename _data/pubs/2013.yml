@@ -5,9 +5,9 @@
   title: Multibody VSLAM with Relative Scale Solution for Curvilinear Motion Reconstruction
   venue: ICRA 2013
 - authors: Arun K. Singh and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_CDC_13.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_CDC_13.pdf
+    url: publications/2013/Singh_Reactive-Collision-Avoidance
   title: Reactive Collision Avoidance for Multiple Robots by Non Linear Time Scaling
   venue: CDC 2013
 - authors: Ayush Dewan, Aravindh Mahendran, Nikhil Soni and K. Madhava Krishna
