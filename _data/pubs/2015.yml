@@ -1,96 +1,96 @@
 - authors: Arun Kumar Singh, K. Madhava Krishna and Srikanth Saripalli
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_AURO_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_AURO_15.pdf
+    url: publications/2015/Singh_Planning-non-holonomic
   title: Planning non-holonomic stable trajectories on uneven terrain through non-linear
     time scaling.
   venue: Autonomous Robots 2015
 - authors: Arun Kumar Singh and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_RAS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_RAS_15.pdf
+    url: 
   title: 'Feasible acceleration count: A novel dynamic stability metric and its use
     in incremental motion planning on uneven terrain.'
   venue: RAS 2015
 - authors: Akhil Nagariya, Bharath Gopalakrishnan, Arun Kumar Singh, Krishnam Gupta
     and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Akhil_etal_CDC_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Akhil_etal_CDC_15.pdf
+    url: 
   title: 'Mobile robot navigation amidst humans with intents and uncertainties : A
     time scaled collision cone approach.'
   venue: CDC 2015
 - authors: Avinash Siravuru, Suril V Shah and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Avinash_etal_Robotica_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Avinash_etal_Robotica_15.pdf
+    url: 
   title: An optimal wheel-torque control on a compliant modular robot for wheel-slip
     minimization.
   venue: Robotica 2015
 - authors: M Siva Karthik, Sudhanshu Mittal, Gurshaant Malik and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Siva_etal_ECMR_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Siva_etal_ECMR_15.pdf
+    url: 
   title: Decision Theoretic Search for Small Objects through Integrating Far and Near
     Cues.
   venue: ECMR 2015
 - authors: Sri Harsha Turlapati, Mihir Shah, Phani Teja Singamaneni, Avinash Siravuru,
     Suril Vijaykumar Shah and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Harsha_etal_IROS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Harsha_etal_IROS_15.pdf
+    url: 
   title: Stair Climbing Using a Compliant Modular Robot.
   venue: IROS 2015
 - authors: Arun Kumar Singh, Bharath Gopalakrishnan and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_etal_IROS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_etal_IROS_15.pdf
+    url: 
   title: Closed Form Characterization of Collision Free Velocities and Confidence
     Bounds for Non-holonomic robots in Uncertain Dynamic Environments.
   venue: IROS 2015
 - authors: Arun Kumar Singh and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_IROS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_IROS_15.pdf
+    url: 
   title: A Class of Non-Linear Time Scaling Functions For Smooth Time Optimal Control
     Along Specified Paths.
   venue: IROS 2015
 - authors: dinesh reddy narapureddy, Prateek Singhal, Visesh Chari and K. Madhava
     Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Dinesh_etal_IROS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Dinesh_etal_IROS_15.pdf
+    url: 
   title: Dynamic Body VSLAM with Semantic Constraints.
   venue: IROS 2015
 - authors: Sarthak Upadhyay, Ayush Dewan and K.Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Sarthak_etal_AIR_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Sarthak_etal_AIR_15.pdf
+    url: 
   title: Trajectory Planning for Monocular SLAM based Exploration System.
   venue: AIR 2015
 - authors: Siddharth Tourani and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/SKT_etal_JIRS_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/SKT_etal_JIRS_15.pdf
+    url: 
   title: Using In-frame Shear Constraints for Monocular Motion Segmentation of Rigid
     Bodies.
   venue: JIRS 2015
 - authors: Harit Pandya, K. Madhava Krishna and C. V.  Jawahar
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Harit_etal_ICRA_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Harit_etal_ICRA_15.pdf
+    url: 
   title: 'Servoing Across Object Instances: Visual Servoing for Object Category.'
   venue: ICRA 2015
 - authors: Kumar Bipin, Vishakh Duggal and K. Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Bipin_etal_ICRA_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Bipin_etal_ICRA_15.pdf
+    url: 
   title: Autonomous Navigation of Generic Monocular Quadcopter in Natural Environment.
   venue: ICRA 2015
 - authors: Arun Kumar Singh, Bharath Gopalakrishnan and K.Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_icc_15.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_icc_15.pdf
+    url: 
   title: 'Time Optimal Control along Specified Paths with Acceleration Continuity:
     A Non-Linear Time Scaling based approach.'
   venue: ICC 2015
