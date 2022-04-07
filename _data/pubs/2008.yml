@@ -1,73 +1,73 @@
 - authors: Rahul Sawhney, K Madhava Krishna, K Srinathan and Mahesh Mohan,
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_1.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_1.pdf
+    url: publications/2008/Sawhney_On-Reduced-Time
   title: On Reduced time fault tolerant paths for Multi-UAVs covering a Hostile Terrain
   venue: AAMAS 2008
 - authors: Shivudu B and K M Krishna,
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_4.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_4.pdf
+    url: 
   title: 'Coordination in Ambiguity: Actively Localizing Multiple Robots'
   venue: AAMAS 2008
 - authors: ', A H Abdul Hafez, S Bhuvanagiri, K Madhava Krishna and C V Jawahar,'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_2.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_2.pdf
+    url: 
   title: On-line Convex Optimization based Solution for Mapping in VSLAM
   venue: IROS 2008
 - authors: ', Mahesh Mohan, Rahul Sawhney, K Madhava Krishna, K Srinathan and M B
     Srikkanth,'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_3.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_3.pdf
+    url: 
   title: 'Covering Terrains with Partial and Complete Visibilities: On Minimum Distance
     Paths'
   venue: IROS 2008
 - authors: ', S Bhuvanagiri and K Madhava Krishna,'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_5.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_5.pdf
+    url: 
   title: Active Global Localization for Multiple Robots by Disambiguating Multiple
     Hypotheses
   venue: IROS 2008
 - authors: ', Ankur Handa, J Sivaswamy, K Madhava Krishna and Sartaj Singh, accepted
     at'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_6.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_6.pdf
+    url: 
   title: Person following by a mobile robot
   venue: CLAWAR 2008
 - authors: ', Hemanth Korapatti, S Subhash, K Madhava Krishna and A K Pandey,'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_9.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_9.pdf
+    url: 
   title: Localizing from multiple hypotheses states minimizing expected path lengths
     for mobile robots
   venue: CLAWAR 2008
 - authors: ', Vijay P Eathakota, S Kolachalama and K Madhava Krishna,'
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_10.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_10.pdf
+    url: 
   title: Optimal Posture Control for Force Actuator Based Articulated Suspension Vehicle
     for Rough Terrain Mobility
   venue: CLAWAR 2008
 - authors: Hemanth Korrapati, K Madhava Krishna and Aditya Teja
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_12.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_12.pdf
+    url: 
   title: Global Localization of Mobile Robots by Reverse Projection of Sensor Readings
   venue: ROBIO 2008
 - authors: Aditya Teja V, D V Karthikeya Viswanath and K Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Robio_teja.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Robio_teja.pdf
+    url: 
   title: A Mixed Autonomy Coordination Methodology For Multi-Robotic Traffic Control
   venue: ROBIO 2008
 - authors: Vijay P. Eathakota, Srikanth Kolachalama, Arun K. Singh and K Madhava Krishna
-  link:
+  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Vijay.etal.ISMCR08.pdf
     display: Download pdf
-    url: http://robotics.iiit.ac.in/uploads/Main/Publications/Vijay.etal.ISMCR08.pdf
+    url: 
   title: Force Actuator based Articulated Suspension Vehicle for Rough Terrain Mobility
   venue: ISMCR-08
 
