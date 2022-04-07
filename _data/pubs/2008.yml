@@ -41,8 +41,8 @@
 - authors: ', Hemanth Korapatti, S Subhash, K Madhava Krishna and A K Pandey,'
   link: http://robotics.iiit.ac.in/uploads/Main/Publications/2008_9.pdf
     display: Download pdf
-    url: 
-  title: Localizing from multiple hypotheses states minimizing expected path lengths
+    url: publications/2008/K_Localizing-from-Multi-Hypotheses
+  title: Localizing from multi hypotheses states minimizing expected path lengths
     for mobile robots
   venue: CLAWAR 2008
 - authors: ', Vijay P Eathakota, S Kolachalama and K Madhava Krishna,'
