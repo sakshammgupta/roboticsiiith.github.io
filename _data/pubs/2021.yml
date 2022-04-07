@@ -126,3 +126,11 @@
     url: publications/2021/Rufus_Grounding-Linguistic-Commands
     display: Project Page
 
+- title: "RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments"
+  authors: Karnik Ram*, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
+
+  venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_karnik_RP-VIO_et_al.html
+    url: publications/2021/Ram_RP-VIO
+    display: Project Page
+
