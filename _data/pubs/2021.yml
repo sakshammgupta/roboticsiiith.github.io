@@ -100,5 +100,13 @@
     url: publications/2021/Qureshi_RTVS
     display: Project Page
 
+- title: "Modular Pipe Climber III with Three-Output Open Differential"
+  authors: Rama Vadapalli*, Saharsh Agarwal, Vishnu Kumar, Kartik Suryavanshi, 
+           Nagamanikandan Govindan, K. Madhava Krishna
+
+  venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
+    url: publications/2021/Vadapalli_Modular-Pipe-Climber
+    display: Project Page
 
 
