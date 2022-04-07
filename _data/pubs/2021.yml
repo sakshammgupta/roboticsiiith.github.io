@@ -91,6 +91,14 @@
 
 #################### IV Papers #################################
 
+- title: "RTVS: A Lightweight Differentiable MPC Framework for Real-Time Visual Servoing"
+  authors: Mohammad Nomaan Qureshi*, Pushkal Katara*, Abhinav Gupta*, Harit Pandya, Harish Y V S,
+           AadilMehdi Sanchawala, Gourav Kumar, Brojeshwar Bhowmick, K. Madhava Krishna
+
+  venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
+    url: publications/2021/Qureshi_RTVS
+    display: Project Page
 
 
 
