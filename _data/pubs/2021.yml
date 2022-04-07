@@ -109,4 +109,12 @@
     url: publications/2021/Vadapalli_Modular-Pipe-Climber
     display: Project Page
 
+- title: "RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching"
+  authors: Udit Singh Parihar*, Aniket Gujarathi*, Kinal Mehta*, Satyajit Tourani*, Sourav Garg, 
+           Michael Milford, K. Madhava Krishna
+
+  venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+  link: https://uditsinghparihar.github.io/RoRD/
+    url: publications/2021/Parihar_RoRD
+    display: Project Page
 
