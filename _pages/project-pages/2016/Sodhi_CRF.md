@@ -19,7 +19,7 @@ affiliations:
   - name: Uurmi Systems
     link: #
     sup: #
-permalink: publications/2006/Sodhi_CRF
+permalink: publications/2016/Sodhi_CRF
 abstract: "Curb detection is a critical component of driver assistance and autonomous driving systems. In this paper, we present a discriminative approach to the problem of curb detection
 under diverse road conditions. We define curbs as the intersection of drivable and non-drivable area which are classified using dense Conditional random fields(CRF). In our method, we fuse output of a neural network used for pixelwise semantic segmentation with depth and color information from stereo cameras. CRF fuses the output of a deep model and height information available in stereo data and
 provides improved segmentation. Further we introduce temporal smoothness using a weighted average of Segnet output and output from a probabilistic voxel grid as our unary potential. Finally, we show improvements over the current state of the art neural networks. Our proposed method shows accurate results over large range of variations in curb curvature and appearance, without the need of retraining the model for the specific dataset."
