@@ -27,6 +27,7 @@ abstract: "This work addresses path planning for reactionless visual servoing of
 moment based feature space, impends acceleration to the image features and extends the feature tree. A reactionless visual servoing control law is integrated to extend the tree in the configuration space simultaneously. The proposed algorithm is able to incorporate the necessary coupling between the motions of the the dual arms and the base of the robot to ensure zero base reactions. Additionally, it also gives the flexibility to apply multiple constraints in both the image space and
 the configuration space. The effectiveness of the proposed framework is exhibited by implementing the algorithm on a numerical model of a 14-DoF dual arm space robot."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/Rachit_etal_IROS_16.pdf
+video: https://robotics.iiit.ac.in/videos/publications/Rachit_etal_IROS16.mp4
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---
