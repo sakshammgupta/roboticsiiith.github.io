@@ -18,7 +18,7 @@ than by a search in the discretized pose space. That this search over obstacle b
 However we also show theoretically that even when the boundary space exceeds the free space the computations due to the current method does not exceed those due to the popular Markov and Correlation based approaches to global localization. The comparative advantages are well documented
 in simulation section of the paper. The approach is able to consistently localize a laser equipped robot in our lab."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/2008_12.pdf
-# video: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/video.mp4
+video: http://robotics.iiit.ac.in/videos/FastLocalization/hemanth_etal_robio08.avi
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---
