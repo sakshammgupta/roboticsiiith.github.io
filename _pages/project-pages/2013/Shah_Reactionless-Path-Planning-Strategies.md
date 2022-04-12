@@ -14,7 +14,7 @@ affiliations:
     sup: 1
   - name: Mechanical Engineering Department, McGill University, Montreal, QCH3A 0C3, Canada 
     link: #
-    sup: 2
+    sup: "2,3"
 permalink: publications/2013/Shah_Reactionless-Path-Planning-Strategies
 abstract: "This paper presents strategies for point-to-point reactionless manipulation of a satellite
 mounted dual-arm robotic system for capture of tumbling orbiting objects, such as out-ofcommission satellites and space debris. Use of the dual-arm robot could be more effective than the single arm when there is no provision for a grapple fixture or the object is tumbling. The dual arms can also provide dexterous manipulation. As the main objective in capture of orbital objects is to move the end-effector from initial position to the grapple point with desired velocity, the task-level reactionless constraints in terms of end-effector velocities are derived. The trajectory planned using these constraints, however, results in several singular points within the robot’s workspace. In order to overcome this shortcoming, three point-to-point path planning strategies are presented, which improve the reactionless operation of the dual-arm robot. The strategies are illustrated by carrying out simulations for a 6-degree-of-freedom (DOF) dual-arm robotic system mounted on a satellite."
