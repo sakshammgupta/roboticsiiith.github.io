@@ -76,8 +76,8 @@
   authors: Ayyappa Swamy Thatavarthy, Tanu Sharma and K. Madhava Krishna
 
   venue: Conference on Robots and Vision (CRV), 2021
-  link:
-    url:
+  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9469446
+    url: publications/2021/Thatavarthy_A-geometric-approach
     display: Project Page
 
 - title: "Building Facades to Normal Maps: Adversarial Learning from Single View Images"
