@@ -7,13 +7,19 @@ authors:
   - name: Prateek Singhal
     sup: 2
   - name: Visesh Chari
-    sup: 1,3
+    sup: "1,3"
   - name: K. Madhava Krishna
     sup: 1
 affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
+  - name: Georgia Institute of Technology, Atlanta
+    link: #
+    sup: 2
+  - name: WILLOW group, INRIA, Paris
+    link: #
+    sup: 3
 permalink: publications/2015/Reddy_Dynamic-Body-VSLAM
 abstract: "Image based reconstruction of urban environments is a challenging problem that deals with optimization of large number of variables, and has several sources of errors like the presence of dynamic objects. Since most large scale approaches make the assumption of observing static scenes,
 dynamic objects are relegated to the noise modelling section of such systems. This is an approach of convenience since the RANSAC based framework used to compute most multiview geometric quantities for static scenes naturally confine dynamic objects to the class of outlier measurements. However, reconstructing dynamic objects along with the static environment helps us get a complete picture of an urban environment. Such understanding can then be used for important robotic tasks like
