@@ -5,7 +5,7 @@ authors:
   - name: S. Avinash
     sup: 1
   - name: A. Srivastava
-    sup: 2
+    sup: 1
   - name: A. Purohit
     sup: 1
   - name: S. V. Shah
