@@ -4,7 +4,7 @@
   authors: Rahul Sajnani\*, AadilMehdi Sanchawala\*, Krishna Murthy Jatavallabhula, Srinath Sridhar and K. Madhava Krishna
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
-  link: https://aadilmehdis.github.io/DRACO-Project-Page/
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: publications/2021/Sajnani_DRACO
     display: Project Page
 
@@ -12,7 +12,7 @@
 #   authors: B.B. Kocer, M.A. Hady, K. Harikumar, M. Pratama and M. Kovac
 
 #   venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
-#   link:
+#   link: #
 #     url: /2021/Deep-Neuromorphic-Controller
 #     display: Project Page
 
@@ -22,7 +22,7 @@
   authors: Ishaan Khare, Jyotish Poonganam, Bharath Gopalakrishnan and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -30,7 +30,7 @@
   authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -38,7 +38,7 @@
   authors: Pravin Mali, K. Harikumar, Arun Kumar Singh, K. Madhava Krishna and P.B. Sujit
 
   venue: IEEE European Control Conference (ECC), 2021
-  link:
+  link: #
     url: publications/2021/Mali_Incorporating-Prediction
     display: Project Page 
 
@@ -48,7 +48,7 @@
   authors: Ayyappa Swamy Thatavarthy, Tanu Sharma, Harshit Sankhla, Mukul Khanna and K. Madhava Krishna
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -57,7 +57,7 @@
            Michael Milford and K. Madhava Krishna
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -65,7 +65,7 @@
   authors: Swapnil Daga, Gokul B. Nair, Anirudha Ramesh, Rahul Sajnani, Junaid Ahmed Ansari and K. Madhava Krishna. 
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -76,7 +76,7 @@
   authors: Ayyappa Swamy Thatavarthy, Tanu Sharma and K. Madhava Krishna
 
   venue: Conference on Robots and Vision (CRV), 2021
-  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9469446
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9469446
     url: publications/2021/Thatavarthy_A-geometric-approach
     display: Project Page
 
@@ -84,7 +84,7 @@
   authors: Mukul Khanna\*, Tanu Sharma\*, Ayyappa Swamy Thatavarthy and K. Madhava Krishna
 
   venue: Conference on Robots and Vision (CRV), 2021
-  link:
+  link: #
     url:
     display: Project Page
 
@@ -93,7 +93,7 @@
   authors: Madan Mohan Rayguru, Rajesh Elara Mohan, Rizuwana Parween, Lim Yi, Anh Vu Le, Spandan Roy
 
   venue: Conference on Robots and Vision (CRV), 2021
-  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369849
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369849
     url: publications/2021/Rayguru_An-Output-Feedback
     display: Project Page
 
@@ -105,7 +105,7 @@
            AadilMehdi Sanchawala, Gourav Kumar, Brojeshwar Bhowmick, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
+  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
     url: publications/2021/Qureshi_RTVS
     display: Project Page
 
@@ -114,7 +114,7 @@
            Nagamanikandan Govindan, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
+  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
     url: publications/2021/Vadapalli_Modular-Pipe-Climber
     display: Project Page
 
@@ -123,7 +123,7 @@
            Michael Milford, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: https://uditsinghparihar.github.io/RoRD/
+  link: # https://uditsinghparihar.github.io/RoRD/
     url: publications/2021/Parihar_RoRD
     display: Project Page
 
@@ -131,7 +131,7 @@
   authors: Nivedita Rufus*, Kanishk Jain, Unni Krishnan R Nair, Vineet Gandhi, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_Nivedita_Rufus_et_al_Grounding_Linguistic_Commands_to_Navigable_Regions.html
+  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Nivedita_Rufus_et_al_Grounding_Linguistic_Commands_to_Navigable_Regions.html
     url: publications/2021/Rufus_Grounding-Linguistic-Commands
     display: Project Page
 
@@ -139,7 +139,7 @@
   authors: Karnik Ram*, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: https://robotics.iiit.ac.in/publications/2021/IROS2021_karnik_RP-VIO_et_al.html
+  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_karnik_RP-VIO_et_al.html
     url: publications/2021/Ram_RP-VIO
     display: Project Page
 
@@ -147,7 +147,7 @@
   authors: Vishnu Kumar, Saharsh Agarwal, Rama Vadapalli, Nagamanikandan Govindan, K. Madhava Krishna
 
   venue:  2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
-  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517351
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517351
     url: publications/2021/Kumar_Design
     display: Project Page
 

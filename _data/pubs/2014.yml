@@ -1,71 +1,71 @@
 - authors: Kumar Bipin, Vishakh Duggal, K. Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Bipin_etal_ICVES_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Bipin_etal_ICVES_14.pdf
+    display: "Project Page"
     url: publications/2014/Bipin_Autonomous-Navigation
   title: Autonomous Navigation of Generic Quadrocopter with Minimum Time Trajectory
     Planning and Control.
   venue: ICVES 2014
 - authors: Bharath Gopalakrishnan, Arun Kumar Singh and K.Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_etal_IROS_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Bharath_etal_IROS_14.pdf
+    display: "Project Page"
     url: publications/2014/Gopalakrishnan_Time-Scaled-Collision
   title: Time Scaled Collision Cone based Trajectory Optimization Approach for Reactive
     Planning in Dynamic Environments.
   venue: IROS 2014
 - authors: Sarthak Upadhyay, Suryansh Kumar and K.Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Sarthak_etal_ICVGIP_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Sarthak_etal_ICVGIP_14.pdf
+    display: "Project Page"
     url: publications/2014/Upadhyay_CRF
   title: CRF Based Frontier Detection using Monocular Camera.
   venue: ICVGIP 2014
 - authors: M. Siva Karthik, Sudhanshu Mittal and K.Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Siva_etal_ICVGIP_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Siva_etal_ICVGIP_14.pdf
+    display: "Project Page"
     url: publications/2014/Karthik_Guess-from-Far
   title: 'Guess from Far, Recognize when Near: Searching the Floor for Small Objects.'
   venue: ICVGIP 2014
 - authors: N. Dinesh Reddy, Prateek Singhal, K. Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Dinesh_etal_ICVGIP_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Dinesh_etal_ICVGIP_14.pdf
+    display: "Project Page"
     url: publications/2014/Reddy_Semantic-Motion
   title: Semantic Motion Segmentation Using Dense CRF Formulation.
   venue: ICVGIP 2014
 - authors: Prateek Singhal, Aditya Deshpande , Harit Pandya, N. Dinesh Reddy, K. Madhava
     Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Prateek_etal_ICVGIP_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Prateek_etal_ICVGIP_14.pdf
+    display: "Project Page"
     url: publications/2014/Singhal_Top-Down-Approach
   title: Top Down Approach to Detect Multiple Planes from Pair of Images.
   venue: ICVGIP 2014
 - authors: Sudhanshu Mittal, M. Siva Karthik, Suryansh Kumar and K.Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Sudhanshu_etal_ICPR_14.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Sudhanshu_etal_ICPR_14.pdf
+    display: "Project Page"
     url: publications/2014/Mittal_Small-Object-Discovery
   title: Small Object Discovery and Recognition using Actively Guided Robot.
   venue: ICPR 2014
 - authors: S. Avinash, A. Srivastava, A. Purohit, S. V. Shah and K. Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Avinash_etal_ICRA_14_accepted.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Avinash_etal_ICRA_14_accepted.pdf
+    display: "Project Page"
     url: publications/2014/Avinash_A-Complaint-Multi-module-Robot
   title: A Compliant Multi-module Robot for Climbing Big Step-like Obstacles
   venue: ICRA 2014
 - authors: Sartaj Singh, Babu D Jadhav and K. Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Sartaj_etal_ICRA_14_accepted.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Sartaj_etal_ICRA_14_accepted.pdf
+    display: "Project Page"
     url: publications/2014/Singh_Posture-Control
   title: Posture Control of a Three-Segmented Tracked Robot with Torque Minimization
     During Step Climbing
   venue: ICRA 2014
 - authors: A. H. Abdul Hafez, V. V. Anurag, S. V. Shah, K. Madhava Krishna and C.
     V. Jawahar
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Anurag_etal_ICRA_14_accepted.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Anurag_etal_ICRA_14_accepted.pdf
+    display: "Project Page"
     url: publications/2014/Hafez_Reactionless-Visual
   title: Reactionless Visual Servoing of a Dual-Arm Space Robot
   venue: ICRA 2014
 - authors: Suryansh Kumar, M. Siva Karthik and K. Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/Suryansh_etal_ICRA_14_accepted.pdf
-    display: Download pdf
+  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Suryansh_etal_ICRA_14_accepted.pdf
+    display: "Project Page"
     url: publications/2014/Kumar_Markov-Random
   title: Markov Random Field based Small Obstacle Discovery over Images
   venue: ICRA 2014

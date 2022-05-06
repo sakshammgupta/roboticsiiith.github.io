@@ -1,70 +1,70 @@
 - authors: Ganesh P Kumar and K Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_6.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_6.pdf
+    display: "Project Page"
     url: publications/2007/Kumar_Optimal-Multi-Sensor
   title: Optimal Multi-Sensor based Multi Target Detection by Moving Sensors to the
     Maximal Clique in a Covering Graph
   venue: IJCAI 2007
 - authors: Amit Kumar Pandey, K Madhava Krishna and Mainak Nath
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_7.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_7.pdf
+    display: "Project Page"
     url: publications/2007/Pandey_Feature-Based-Occupancy
   title: Feature Based Occupancy Grid Maps for Sonar Based Safe-Mapping
   venue: IJCAI 2007
 - authors: D V Karthikeya Viswanath and K Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_1.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_1.pdf
+    display: "Project Page"
     url: publications/2007/Viswanath_Sensor-Network
   title: Sensor Network Mediated Multi Robotic Traffic Control in Indoor Environment
   venue: ICAR 2007
 - authors: Amit Kumar Pandey and K Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_2.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_2.pdf
+    display: "Project Page"
     url: publications/2007/Pandey_Link-Graph
   title: Link Graph and Feature Chain based Robust Online SLAM for Fully Autonomous
     Mobile Robot Navigation System using Sonar Sensors
   venue: ICAR 2007
 - authors: Satish Pedduri and K Madhava Krishna
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_3.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_3.pdf
+    display: "Project Page"
     url: publications/2007/Pedduri_Collision-Avoidance
   title: Collision Avoidance for Multiple Robots till Next Waypoints through Collision
     Free Polygons
   venue: ICAR 2007
 - authors: Shivudu Bhuvanagiri, K Madhava Krishna and Rakesh Goyal
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_4.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_4.pdf
+    display: "Project Page"
     url: publications/2007/Bhuvanagiri_Active-Localization
   title: Active Localization of Multiple Mobile Robots By Moving to Best Frontiers
   venue: ICAR 2007
 - authors: Siddharth Sanan, Nageshwar Rao, K Madhava Krishna and Sartaj Singh
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_5.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_5.pdf
+    display: "Project Page"
     url: publications/2007/Sanan_On-Improving-the-Mobility
   title: On Improving the Mobility of Vehicles in Uneven Terrain
   venue: ICAR 2007
 - authors: D. V. Karthikeya Viswanath K Madhava Krishna, Henry Hexmoor and Sartaj
     Singh
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_8.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_8.pdf
+    display: "Project Page"
     url: publications/2007/Viswanath_Robot-Navigation
   title: Robot Navigation in a 3D World Mediated by Sensor Networks
   venue: KIMAS 2007
 - authors: Satish Pedduri, K Madhava Krishna  and Henry Hexmoor
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_9.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_9.pdf
+    display: "Project Page"
     url: publications/2007/Pedduri_Cooperative-Navigation
   title: Cooperative Navigation Function based Navigation of Multiple Mobile Robots
   venue: KIMAS 2007
 - authors: Amit Kumar Pandey, K Madhava Krishna and Henry Hexmoor
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_10.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_10.pdf
+    display: "Project Page"
     url: publications/2007/Pandey_Feature-Chain-Based-Occupancy-Grid
   title: Feature Chain Based Occupancy Grid SLAM for Robots Equipped with Sonar Sensors
   venue: KIMAS 2007
 - authors: T R Rahul, K Madhava Krishna and Henry Hexmoor
-  link: http://robotics.iiit.ac.in/uploads/Main/Publications/2007_11.pdf
-    display: Download pdf
+  link: # http://robotics.iiit.ac.in/uploads/Main/Publications/2007_11.pdf
+    display: "Project Page"
     url: publications/2007/Rahul_Probability-Based-Optimal-Algorithms
   title: Probability Based Optimal Algorithms for Multi-sensor Multi-target Detection
   venue: KIMAS 2007
