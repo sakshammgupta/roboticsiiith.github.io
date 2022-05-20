@@ -5,7 +5,7 @@
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2021
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
-    url: publications/2021/Sajnani_DRACO
+    url: /publications/2021/Sajnani_DRACO
     display: Project Page
 
 # - title: "Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots"
@@ -39,7 +39,7 @@
 
   venue: IEEE European Control Conference (ECC), 2021
   link: #
-    url: publications/2021/Mali_Incorporating-Prediction
+    url: /publications/2021/Mali_Incorporating-Prediction
     display: Project Page 
 
 #################### Visapp Papers #################################
@@ -77,7 +77,7 @@
 
   venue: Conference on Robots and Vision (CRV), 2021
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9469446
-    url: publications/2021/Thatavarthy_A-geometric-approach
+    url: /publications/2021/Thatavarthy_A-geometric-approach
     display: Project Page
 
 - title: "Building Facades to Normal Maps: Adversarial Learning from Single View Images"
@@ -94,7 +94,7 @@
 
   venue: Conference on Robots and Vision (CRV), 2021
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369849
-    url: publications/2021/Rayguru_An-Output-Feedback
+    url: /publications/2021/Rayguru_An-Output-Feedback
     display: Project Page
 
 
@@ -105,8 +105,8 @@
            AadilMehdi Sanchawala, Gourav Kumar, Brojeshwar Bhowmick, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
-    url: publications/2021/Qureshi_RTVS
+  link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
+    url: /publications/2021/Qureshi_RTVS
     display: Project Page
 
 - title: "Modular Pipe Climber III with Three-Output Open Differential"
@@ -114,8 +114,8 @@
            Nagamanikandan Govindan, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
-    url: publications/2021/Vadapalli_Modular-Pipe-Climber
+  link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
+    url: /publications/2021/Vadapalli_Modular-Pipe-Climber
     display: Project Page
 
 - title: "RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching"
@@ -124,23 +124,23 @@
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://uditsinghparihar.github.io/RoRD/
-    url: publications/2021/Parihar_RoRD
+    url: /publications/2021/Parihar_RoRD
     display: Project Page
 
 - title: "Grounding Linguistic Commands to Navigable Regions"
   authors: Nivedita Rufus*, Kanishk Jain, Unni Krishnan R Nair, Vineet Gandhi, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_Nivedita_Rufus_et_al_Grounding_Linguistic_Commands_to_Navigable_Regions.html
-    url: publications/2021/Rufus_Grounding-Linguistic-Commands
+  link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Nivedita_Rufus_et_al_Grounding_Linguistic_Commands_to_Navigable_Regions.html
+    url: /publications/2021/Rufus_Grounding-Linguistic-Commands
     display: Project Page
 
 - title: "RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments"
   authors: Karnik Ram*, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
 
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
-  link: # https://robotics.iiit.ac.in/publications/2021/IROS2021_karnik_RP-VIO_et_al.html
-    url: publications/2021/Ram_RP-VIO
+  link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_karnik_RP-VIO_et_al.html
+    url: /publications/2021/Ram_RP-VIO
     display: Project Page
 
 - title: "Design and Analysis of Modular Pipe Climber-III with a Multi-Output Differential Mechanism"
@@ -148,6 +148,6 @@
 
   venue:  2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517351
-    url: publications/2021/Kumar_Design
+    url: /publications/2021/Kumar_Design
     display: Project Page
 

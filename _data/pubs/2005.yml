@@ -1,40 +1,40 @@
 - authors: . K Madhava Krishna Henry Hexmoor,
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/1.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_A-Constrained-Optimal-Multi-Sensor
+    url: /publications/2005/Krishna_A-Constrained-Optimal-Multi-Sensor
   title: An optimal multi-sensor based object tracking algorithm for surveillence
     systems
   venue: IICAI 2005
 - authors: ', K Madhava Krishna and Prem K Kalra'
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2005_2.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_Fuzzy-Clustering
+    url: /publications/2005/Krishna_Fuzzy-Clustering
   title: Fuzzy clustering with M-Estimators
   venue: IICAI 2005
 - authors: K Madhava Krishna and Henry Hexmoor
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2005_3.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_A-framework-for-guaranteeing-detection-performance
+    url: /publications/2005/Krishna_A-framework-for-guaranteeing-detection-performance
   title: A framework for guarenteeing detection performance of a sensor network
   venue: IICAI 2005
 - authors: K Madhava Krishna, Henry Hexmoor and Shravan Sogani
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2005_4.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_A-T-Step
+    url: /publications/2005/Krishna_A-T-Step
   title: A T-Step Ahead Constrained Optimal Target Detection Algorithm for a Multi
     Sensor Surveillance System
   venue: IROS 2005
 - authors: K Madhava Krishna and Henry Hexmoor Srinivas Chellappa
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2005_5.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_Reactive-Navigation
+    url: /publications/2005/Krishna_Reactive-Navigation
   title: Reactive Navigation of Multiple Moving Agents by Collaborative Resolution
     of Conflicts
   venue: Journal On Robotics Systems 2005
 - authors: K Madhava Krishnaa, R Alamib and T Simeonb
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2005_6.pdf
     display: "Project Page"
-    url: publications/2005/Krishna_Safe-proactive-plans
+    url: /publications/2005/Krishna_Safe-proactive-plans
   title: Safe proactive plans and their execution
   venue: RAS 2005
 

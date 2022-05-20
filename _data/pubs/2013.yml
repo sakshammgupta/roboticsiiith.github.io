@@ -1,77 +1,77 @@
 - authors: Rahul Namdev, K. Madhava Krishna and C. V.  Jawahar
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Rahul_etal_ICRA_13.pdf
     display: "Project Page"
-    url: publications/2013/Namdev_Multibody-VSLAM
+    url: /publications/2013/Namdev_Multibody-VSLAM
   title: Multibody VSLAM with Relative Scale Solution for Curvilinear Motion Reconstruction
   venue: ICRA 2013
 - authors: Arun K. Singh and K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_CDC_13.pdf
     display: "Project Page"
-    url: publications/2013/Singh_Reactive-Collision-Avoidance
+    url: /publications/2013/Singh_Reactive-Collision-Avoidance
   title: Reactive Collision Avoidance for Multiple Robots by Non Linear Time Scaling
   venue: CDC 2013
 - authors: Ayush Dewan, Aravindh Mahendran, Nikhil Soni and K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Ayush_etal_IROS_13.pdf
     display: "Project Page"
-    url: publications/2013/Dewan_Heterogeneous-UGV-MAV
+    url: /publications/2013/Dewan_Heterogeneous-UGV-MAV
   title: Heterogeneous UGV-MAV Exploration Using Integer Programming
   venue: IROS 2013
 - authors: A. H. Abdul Hafez, Manpreet S. Arora, K. Madhava Krishna and C. V. Jawahar
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Abdul_etal_IROS_13.pdf
     display: "Project Page"
-    url: publications/2013/Hafez_Visual-Localization
+    url: /publications/2013/Hafez_Visual-Localization
   title: Visual Localization in Highly Crowded Urban Environment
   venue: IROS 2013
 - authors: Arun K. Singh and K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_IROS_13.pdf
     display: "Project Page"
-    url: publications/2013/Singh_Coordinating-Mobile-Manipulators-Motion
+    url: /publications/2013/Singh_Coordinating-Mobile-Manipulators-Motion
   title: Coordinating Mobile Manipulator's Motion to produce Stable Trajectories on
     Uneven Terrain based on Feasible Acceleration Count
   venue: IROS 2013
 - authors: Sartaj Singh, K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Sartaj_etal_MSC_13.pdf
     display: "Project Page"
-    url: publications/2013/Singh_Gait-Sequence-Generation
+    url: /publications/2013/Singh_Gait-Sequence-Generation
   title: Gait Sequence Generation of a Hybrid Wheeled-Legged Robot for Negotiating
     Discontinuous Terrain
   venue: MSC 2013
 - authors: Laxit Gavshinde, Arun Kumar Singh, and K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Laxit_etal_MSC_13.pdf
     display: "Project Page"
-    url: publications/2013/Gavshinde_Trajectory-Planning 
+    url: /publications/2013/Gavshinde_Trajectory-Planning 
   title: Trajectory Planning for Monocular SLAM Systems
   venue: MSC 2013
 - authors: Karthik Desingh, K Madhava Krishna, C. V. Jawahar and Deepu Rajan
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Karthik_etal_BMVC_13.pdf
     display: "Project Page"
-    url: publications/2013/Desingh_Depth-really-Matters
+    url: /publications/2013/Desingh_Depth-really-Matters
   title: 'Depth really Matters: Improving Visual Salient Region Detection with Depth'
   venue: BMVC  2013
 - authors: S. Avinash, V. V. Anurag, A. K. Singh, S. V. Shah and K. Madhava Krishna
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Avinash_etal_MSC_13.pdf
     display: "Project Page"
-    url: publications/2013/Avinash_A-Semi-Active-Robot
+    url: /publications/2013/Avinash_A-Semi-Active-Robot
   title: A Semi-Active Robot for Steep Obstacle Ascent
   venue: MSC 2013
 - authors: A. Gattupalli, S. V. Shah, K. Madhava Krishna and A. K. Misra
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Gattupalli_etal_AIR_13.pdf
     display: "Project Page"
-    url: publications/2013/Gattupalli_Control-Strategies
+    url: /publications/2013/Gattupalli_Control-Strategies
   title: Control Strategies for Reactionless Capture of an Orbiting Object using a
     Satellite Mounted Robot
   venue: AIR 2013
 - authors: S. V. Shah, A. K. Misra and I. Sharf
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Shah_etal_AIAAGNCC_13.pdf
     display: "Project Page"
-    url: publications/2013/Shah_Reactionless-Path-Planning-Strategies
+    url: /publications/2013/Shah_Reactionless-Path-Planning-Strategies
   title: Reactionless Path Planning Strategies for Capture of Tumbling Objects in
     Space Using a Dual-Arm Robotic System
   venue: AIAAGNCC 2013
 - authors: S. V. Shah and S. K. Saha
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/shah_etal_AME_13.pdf
     display: "Project Page"
-    url: publications/2013/Shah_Correlation-between-Diagonal-Ratio
+    url: /publications/2013/Shah_Correlation-between-Diagonal-Ratio
   title: Correlation between Diagonal Ratio and Condition Number of the Generalized
     Inertia Matrix of a Serial-Chain
   venue: AME 2013
@@ -81,19 +81,19 @@
 - authors: M. Kaul, S. V. Shah, S. K. Saha and M. Manivannan
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Shah_etal_JMSD_13.pdf
     display: "Project Page"
-    url: publications/2013/Koul_Reduced-order
+    url: /publications/2013/Koul_Reduced-order
   title: Reduced-order Forward Dynamics of Closed-Loop Systems
   venue: JMSD 2013
 - authors: S. V. Shah, S. K. Saha and J. K. Dutt
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/shah_etal_JAVE_13.pdf
     display: "Project Page"
-    url: publications/2013/Shah_Dynamics-Algorithms
+    url: /publications/2013/Shah_Dynamics-Algorithms
   title: Dynamics Algorithms for multibody systems
   venue: JAVE  2013
 - authors: Ayush Dewan, Aravindh Mahendran, Nikhil Soni, K Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Dewan_etal_aamas2013.pdf
     display: "Project Page"
-    url: publications/2013/Dewan_Optimization-Based-Coordinated-UGV-MAV
+    url: /publications/2013/Dewan_Optimization-Based-Coordinated-UGV-MAV
   title: Optimization Based Coordinated UGV-MAV Exploration for 2D Augmented Mapping
   venue: AAMAS 2013
 

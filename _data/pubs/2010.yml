@@ -1,72 +1,72 @@
 - authors: Abhijit Kundu, K Madhava Krishna and C. V.Jawahar.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/abhijit_etal_icvgip2010.pdf
     display: "Project Page"
-    url: publications/2010/Kundu_Realtime-Motion-Segmentation
+    url: /publications/2010/Kundu_Realtime-Motion-Segmentation
   title: Realtime Motion Segmentation based Multibody Visual SLAM
   venue: ICVGIP 2010
 - authors: Gururaj Kosuru, Satish Pedduri and K Madhava Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/Guru_etal_robio2010.pdf
     display: "Project Page"
-    url: publications/2010/Kosuru_Data-Association
+    url: /publications/2010/Kosuru_Data-Association
   title: Data Association using Empty Convex Polygonal Regions in EKF SLAM
   venue: ROBIO 2010
 - authors: Chetan J., K Madhava Krishna and  C. V. Jawahar
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/chetan_etal_iros2010.pdf
     display: "Project Page"
-    url: publications/2010/J_An-Adaptive-Outdoor
+    url: /publications/2010/J_An-Adaptive-Outdoor
   title: An Adaptive Outdoor Terrain Classification Methodology using Monocular Camera
   venue: IROS 2010
 - authors: Piyoosh Mukhija, K Madhava Krishna and Vamshi Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/mukhija_etal_iros2010.pdf
     display: "Project Page"
-    url: publications/2010/Mukhija_A-Two-Phase-Recursive
+    url: /publications/2010/Mukhija_A-Two-Phase-Recursive
   title: A Two Phase Recursive Tree Propagation based Multi-Robotic Exploration Framework
     with Fixed Base Station Constraint
   venue: IROS 2010
 - authors: Aravindhan K Krishnan and K Madhava Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/aravindhan_etal_iros2010.pdf
     display: "Project Page"
-    url: publications/2010/Krishnan_A-Visual-Exploration
+    url: /publications/2010/Krishnan_A-Visual-Exploration
   title: A Visual Exploration Algorithm using Semantic Cues that Constructs Image
     based Hybrid Maps
   venue: IROS 2010
 - authors: Arun Kumar Singh, Rahul Kumar Namdev, Vijay Eathakota, K Madhava Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/arun_etal_iros2010.pdf
     display: "Project Page"
-    url: publications/2010/Singh_A-Novel-Compliant
+    url: /publications/2010/Singh_A-Novel-Compliant
   title: A Novel Compliant Rover for Rough Terrain Mobility
   venue: IROS 2010
 - authors: Vijay P. Eathakota, Arun K Singh and K Madhava Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/eathakota_etal_actaastro2010.pdf
     display: "Project Page"
-    url: publications/2010/Eathakota_Two-models
+    url: /publications/2010/Eathakota_Two-models
   title: Two Models of Force Actuator based Active Suspension Mechanisms for Mobility
     on Uneven Terrain,
   venue: Acta Astronautica, Elsevier, 2010
 - authors: Chetan J., Madhava Krishna and C. V. Jawahar.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/chetan_etal_icpr2010.pdf
     display: "Project Page"
-    url: publications/2010/J_Fast-and-Spatially-smooth
+    url: /publications/2010/J_Fast-and-Spatially-smooth
   title: Fast and Spatially-smooth Terrain Classification using Monocular Camera
   venue: ICPR 2010
 - authors: Shivudu Bhuvanagiri and K Madhava Krishna.
   link: # http://dx.doi.org/10.1016/j.robot.2009.09.006
     display: "Project Page"
-    url: publications/2010/Bhuvanagiri_Motion-in-ambiguity
+    url: /publications/2010/Bhuvanagiri_Motion-in-ambiguity
   title: 'Motion in ambiguity: Coordinated active global localization for multiple
     robots'
   venue: RAS 2010
 - authors: Piyoosh Mukhija, Rahul Sawhney and K Madhava Krishna.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/mukhija_etal_aamas2010.pdf
     display: "Project Page"
-    url: publications/2010/Mukhija_Multi-Robotic-Exploration
+    url: /publications/2010/Mukhija_Multi-Robotic-Exploration
   title: Multi Robotic Exploration with Communication Requirement to a Fixed Base
     Station
   venue: AAMAS 2010
 - authors: Aravindhan K Krishnan, K Madhava Krishna and Supreeth Achar.
   link: # http://robotics.iiit.ac.in/uploads/Main/Publications/krishnan_etal_aamas2010.pdf
     display: "Project Page"
-    url: publications/2010/Krishnan_Image-Based-Exploration
+    url: /publications/2010/Krishnan_Image-Based-Exploration
   title: Image Based Exploration for Indoor Environments using Local Features
   venue: AAMAS 2010
 

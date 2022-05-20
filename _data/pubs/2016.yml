@@ -15,25 +15,25 @@
 - authors: Utsav Shah, Rishabh Khawad, K.Madhava Krishna
   link: #http://robotics.iiit.ac.in/people/utsav.shah/project_page/deepfly/
     display: Project page
-    url: publications/2016/Shah_DeepFly
+    url: /publications/2016/Shah_DeepFly
   title: 'DeepFly: Towards Complete Autonomous Navigation of MAVs with Monocular Camera'
   venue: ICVGIP 2016
 - authors: Sarthak Upadhyay, Sarthak Upadhyay, K.Madhava Krishna and Swagat Kumar
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Sarthak_etal_ICVGIP16.pdf
     display: Download pdf
-    url: publications/2016/Upadhyay_Fast-Frontier-Detection
+    url: /publications/2016/Upadhyay_Fast-Frontier-Detection
   title: Fast Frontier Detection in Indoor Environment for Monocular SLAM
   venue: ICVGIP 2016
 - authors: Vishakh Duggal, Kumar Bipin, Utsav Shah, K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/people/utsav.shah/project_page/hsl/
     display: Project page
-    url: publications/2016/Duggal_Hierarchical-Structured-Learning
+    url: /publications/2016/Duggal_Hierarchical-Structured-Learning
   title: Hierarchical Structured Learning for Indoor Autonomous Navigation of Quadcopter
   venue: ICVGIP 2016
 - authors: Rachit Bhargava, P. Mithun, V. V. Anurag, A.H. Abdul Hafez and S. V. Shah
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Rachit_etal_IROS_16.pdf
     display: Download pdf
-    url: publications/2016/Bhargava_Image-Space
+    url: /publications/2016/Bhargava_Image-Space
   title: Image Space based Path Planning for Reactionless Manipulation of Redundant
     Space Robot.
   venue: IROS 2016
@@ -41,14 +41,14 @@
     Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Siddharth_etal_ICRA_16.pdf
     display: Download pdf
-    url: publications/2016/Tourani_Rolling-Shutter
+    url: /publications/2016/Tourani_Rolling-Shutter
   title: Rolling Shutter and Motion Blur Removal for Depth Cameras.
   venue: ICRA 2016
 - authors: Vishakh Duggal, Mohak Sukhwani, Kumar Bipin,  G. Syamasundar Reddy and
     K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Vishakh_etal_ICRA16.pdf
     display: Download pdf
-    url: publications/2016/Duggal_Plantation-Monitoring
+    url: /publications/2016/Duggal_Plantation-Monitoring
   title: Plantation Monitoring and Yield Estimation using Autonomous Quadcopter for
     Precision Agriculture.
   venue: ICRA 2016
@@ -56,13 +56,13 @@
     Zia and K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Falak_etal_ICRA16.pdf
     display: Download pdf
-    url: publications/2016/Chhaya_Monocular-Reconstruction
+    url: /publications/2016/Chhaya_Monocular-Reconstruction
   title: 'Monocular Reconstruction of Vehicles: Combining SLAM with Shape Priors.'
   venue: ICRA 2016
 - authors: Harit Pandya, K. Madhava Krishna and C. V.  Jawahar
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Harit_etal_ICRA_16.pdf
     display: Download pdf
-    url: publications/2016/Pandya_Discriminative-Learning
+    url: /publications/2016/Pandya_Discriminative-Learning
   title: Discriminative Learning based Visual Servoing across Object Instances.
   venue: ICRA 2016
 

@@ -4,7 +4,7 @@
 
   venue: Conference on Robot Learning (CoRL), 2020
   link: #
-    url: publications/2020/DeepMPCVS
+    url: /publications/2020/DeepMPCVS
     display: Project Page
 
 - title: "Understanding Dynamic Scenes using Graph Convolution Networks"
@@ -12,7 +12,7 @@
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
   link: #
-    url: publications/2020/Mylavarapu_Understanding-Dynamic-Scenes
+    url: /publications/2020/Mylavarapu_Understanding-Dynamic-Scenes
     display: Project Page
 
 - title: "Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors"
@@ -20,7 +20,7 @@
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
   link: #
-    url: publications/2020/Sankaranarayanan_Aerial-Transportation
+    url: /publications/2020/Sankaranarayanan_Aerial-Transportation
     display: Project Page
 
 - title: "LiDAR Guided Small Obstacle Segmentation"
@@ -28,7 +28,7 @@
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
   link: # 
-    url: publications/2020/Singh_LiDAR
+    url: /publications/2020/Singh_LiDAR
     display: Project Page
 
 - title: "Solving Chance Constrained Optimization under Non-Parametric Uncertainty Through Hilbert Space Embedding"
@@ -36,7 +36,7 @@
 
   venue: IEEE Transactions on Control Systems Technology (ITCST), 2020
   link: #
-    url: publications/2020/Gopalakrishnan_Solving-Chance-Constrained-Optimization
+    url: /publications/2020/Gopalakrishnan_Solving-Chance-Constrained-Optimization
     display: Project Page
 
 - title: "SROM: Simple Real-time Odometry and Mapping using LiDAR data for Autonomous Vehicles"
@@ -44,7 +44,7 @@
 
   venue: IEEE Intelligent Vehicles Symposium (IV), 2020
   link: #
-    url: publications/2020/Rufus_SROM
+    url: /publications/2020/Rufus_SROM
     display: Project Page
 
 - title: "Multi-Object Monocular SLAM for Dynamic Environments"
@@ -53,7 +53,7 @@
 
   venue: IEEE Intelligent Vehicles Symposium (IV), 2020
   link: #
-    url: publications/2020/Nair_Multi-Object
+    url: /publications/2020/Nair_Multi-Object
     display: Project Page
 
 - title: "Bi-Convex Approximation of Non-Holonomic Trajectory Optimization"
@@ -61,7 +61,7 @@
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
   link: #
-    url: publications/2020/Singh_Bi-Convex
+    url: /publications/2020/Singh_Bi-Convex
     display: Project Page
 
 - title: "Omnidirectional Tractable Three Module Robot"
@@ -69,7 +69,7 @@
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
   link: #
-    url: publications/2020/Suryavanshi_Omnidirectional
+    url: /publications/2020/Suryavanshi_Omnidirectional
     display: Project Page
 
 - title: "DFVS: Deep Flow Guided Scene Agnostic Image Based Visual Servoing"
@@ -77,7 +77,7 @@
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
   link: #
-    url: publications/2020/Harish_DFVS
+    url: /publications/2020/Harish_DFVS
     display: Project Page
 
 - title: "Topological Mapping for Manhattan-like Repetitive Environments"
@@ -86,7 +86,7 @@
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
   link: #
-    url: publications/2020/Puligilla_Topological-Mapping
+    url: /publications/2020/Puligilla_Topological-Mapping
     display: Project Page
 
 - title: "Reactive Navigation under Uncertainty through Hilbert Space Embedding of Probabilistic Velocity Obstacles"
@@ -95,7 +95,7 @@
 
   venue: IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (ICRA + RA-L), 2020
   link: #
-    url: publications/2020/Poonganam_Reactive-Navigation
+    url: /publications/2020/Poonganam_Reactive-Navigation
     display: Project Page
 
 - title: "Introducing Switched Adaptive Control for Quadrotors for Vertical Operations"
@@ -103,7 +103,7 @@
 
   venue: Optimal Control Applications and Methods, 2020
   link: #
-    url: publications/2020/Sankaranarayanan_Introducing-Switched
+    url: /publications/2020/Sankaranarayanan_Introducing-Switched
     display: Project Page
 
 - title: "MonoLayout: Amodal scene layout from a single image"
@@ -111,5 +111,5 @@
 
   venue: Winter Conference on Applications of Computer Vision, 2020
   link: #
-    url: publications/2020/Mani_MonoLayout
+    url: /publications/2020/Mani_MonoLayout
     display: Project Page

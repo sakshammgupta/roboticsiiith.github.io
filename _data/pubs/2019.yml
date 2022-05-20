@@ -4,14 +4,14 @@
 
   venue: IEEE American Control Conference (ACC), 2019
   link: #
-    url: publications/2019/Babu_Model-Predictive-Control
+    url: /publications/2019/Babu_Model-Predictive-Control
     display: Project Page
 
   authors: "P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava Krishna"
 
   venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
   link: #
-    url: publications/2019/Jyotish_PIVO-Probabilistic-Inverse-Velocity
+    url: /publications/2019/Jyotish_PIVO-Probabilistic-Inverse-Velocity
     display: Project Page
 
 - title: "Probabilistic obstacle avoidance and object following: An overlap of Gaussians approach"
@@ -19,7 +19,7 @@
 
   venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
   link: #
-    url: publications/2019/Bhatt_Probabilistic-Obstacle-Avoidance
+    url: /publications/2019/Bhatt_Probabilistic-Obstacle-Avoidance
     display: Project Page
 
 - title: "IVO: Inverse Velocity Obstacles for Real Time Navigation"
@@ -27,7 +27,7 @@
 
   venue: Advances in Robotics (AIR), 2019
   link: #
-    url: publications/2019/Jyotish_IVO-Inverse-Velocity-Obstacles
+    url: /publications/2019/Jyotish_IVO-Inverse-Velocity-Obstacles
     display: Project Page
 
 - title: "Parameter Sharing Reinforcement Learning Architecture for Multi Agent Driving"
@@ -35,7 +35,7 @@
 
   venue: Advances in Robotics (AIR), 2019
   link: #
-    url: publications/2019/Kaushik_Parameter-Sharing-Reinforcement-Learning
+    url: /publications/2019/Kaushik_Parameter-Sharing-Reinforcement-Learning
     display: Project Page
 
 - title: "Gradient Aware - Shrinking Domain based Control Design for Reactive Planning Frameworks"
@@ -43,7 +43,7 @@
 
   venue: Advances in Robotics (AIR), 2019
   link: #
-    url: publications/2019/Adarsh_Gradient-Aware-Shrinking-Domain
+    url: /publications/2019/Adarsh_Gradient-Aware-Shrinking-Domain
     display: Project Page
 
 - title: "INFER: INtermediate representations for FuturE pRediciton"
@@ -52,7 +52,7 @@
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2019
   link: #
-    url: publications/2019/Srikanth_INFER-INtermediate-Representations
+    url: /publications/2019/Srikanth_INFER-INtermediate-Representations
     display: Project Page
 
 - title: "Talk to the Vehicle: Language Conditioned Autonomous Navigation of Self Driving Cars"
@@ -61,7 +61,7 @@
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2019
   link: #
-    url: publications/2019/N_Talk-to-the-Vehicle
+    url: /publications/2019/N_Talk-to-the-Vehicle
     display: Project Page
 
 - title: "Instance Invariant Visual Servoing Framework for Part-Aware Autonomous Vehicle Inspection using MAVs"
@@ -69,7 +69,7 @@
 
   venue: Journal of Field Robotics (JFR), 2019
   link: #
-    url: publications/2019/Pandya_Instance-Invariant-Visual
+    url: /publications/2019/Pandya_Instance-Invariant-Visual
     display: Project Page
 
 - title: "Motion Planning Framework for Autonomous Vehicles: A Time Scaled Collision Cone 
@@ -78,7 +78,7 @@
 
   venue: IEEE Intelligent Vehicles Symposium (IV), 2019
   link: #
-    url: publications/2019/Theerthala_Motion-Planning-Framework
+    url: /publications/2019/Theerthala_Motion-Planning-Framework
     display: Project Page
 
 - title: "A Hierarchical Network for Diverse Trajectory Proposals"
@@ -87,7 +87,7 @@
 
   venue: IEEE Intelligent Vehicles Symposium (IV), 2019
   link: #
-    url: publications/2019/pub_1
+    url: /publications/2019/pub_1
     display: Project Page
 
 

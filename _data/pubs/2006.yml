@@ -1,19 +1,19 @@
 - authors: Siddharth Sanan, Darshan Santani, K Madhava Krishna and Henry Hexmoor
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2006_1.pdf
     display: "Project Page"
-    url: publications/2006/Sanan_Extension-of-Reeds
+    url: /publications/2006/Sanan_Extension-of-Reeds
   title: Extension of Reeds & Shepp Paths to a Robot with Front and Rear Wheel Steer
   venue: ICRA 2006
 - authors: Ganesh P K, K Madhava Krishna and Paulo Menezes
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2006_2.pdf
     display: "Project Page"
-    url: publications/2006/K_Multi-target-Detection
+    url: /publications/2006/K_Multi-target-Detection
   title: 'Multi-target Detection by Multi-sensor Systems: A Comparison of Systems'
   venue: ROBIO 2006
 - authors: Rakesh Goyal, K Madhava Krishna and Shivudu Bhuvanagiri
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2006_3.pdf
     display: "Project Page"
-    url: publications/2006/Goyal_Sensor-Based-Localization
+    url: /publications/2006/Goyal_Sensor-Based-Localization
   title: Sensor Based Localization for Mobile Robots by Exploration and Selection
     of Best Direction
   venue: ROBIO 2006

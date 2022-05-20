@@ -1,7 +1,7 @@
 - authors: K Madhava Krishna and Prem K Kalra
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2001_1.pdf
     display: "Project Page"
-    url: publications/2001/Krishna_Perception
+    url: /publications/2001/Krishna_Perception
   title: Perception and remembrance of the environment during real-time navigation
     of a mobile robot
   venue: RAS 2001

@@ -1,66 +1,66 @@
 - authors: Piyoosh Mukhija, Siddharth Tourani and K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Piyoosh_etal_ITSC_12.pdf
     display: "Project Page"
-    url: publications/2012/Mukhija_Outdoor-Intersection-Detection
+    url: /publications/2012/Mukhija_Outdoor-Intersection-Detection
   title: Outdoor Intersection Detection for Autonomous Exploration
   venue: ITSC 2012
 - authors: Arun Kumar Singh, Debasish Ghose and K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_acc_12.pdf
     display: "Project Page"
-    url: publications/2012/Singh_Optimum-Steering-input-determination
+    url: /publications/2012/Singh_Optimum-Steering-input-determination
   title: Optimum steering input determination and path-tracking of all-wheel steer
     vehicles on uneven terrains based on constrained optimization
   venue: ACC 2012
 - authors: Suryansh Kumar, Ayush Dewan, K Madhava Krishna
   link:
     display: Project page  
-    url: publications/2012/Kumar_A-Bayes-Filter
+    url: /publications/2012/Kumar_A-Bayes-Filter
   title: A Bayes Filter based Adaptive Floor Segmentation with Homography and Appearance
     Cues
   venue: ICVGIP 2012
 - authors: Karthik Desingh, Akhil Nagariya, K Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Desingh_etal_icvgip2012.pdf
     display: "Project Page"
-    url: publications/2012/Desingh_Viewpoint-based-Mobile-Robotic
+    url: /publications/2012/Desingh_Viewpoint-based-Mobile-Robotic
   title: Viewpoint based Mobile Robotic Exploration aiding Object Search in Indoor
     Environment
   venue: ICVGIP 2012
 - authors: Amey Parulkar, Piyush Shukla, K Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Parulkar_etal_case2012.pdf
     display: "Project Page"
-    url: publications/2012/Parulkar_Fast-Randomized-Planner
+    url: /publications/2012/Parulkar_Fast-Randomized-Planner
   title: Fast Randomized Planner for SLAM Automation
   venue: CASE 2012
 - authors: Arun Kumar Singh, K. Madhava Krishna and Srikanth Saripalli
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/arun_etal_iros2012.pdf
     display: "Project Page"
-    url: publications/2012/Singh_Planning-Trajectories
+    url: /publications/2012/Singh_Planning-Trajectories
   title: Planning Trajectories on Uneven Terrain using Optimization and Non-Linear
     time Scaling Techniques
   venue: IROS 2012
 - authors: Romit Pandey, Arun Kumar Singh and K. Madhava Krishna.
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Romit_etal_case2012.pdf
     display: "Project Page"
-    url: publications/2012/Pandey_Multi-Robot-Exploration
+    url: /publications/2012/Pandey_Multi-Robot-Exploration
   title: Multi-Robot Exploration with Communication Requirement to a Moving Base Station
   venue: CASE 2012
 - authors: Aditya Gattupalli, Vijay P. Eathakota, Arun K. Singh, K. Madhava Krishna.
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Gattupalli_etal_JAR2012.pdf
     display: "Project Page"
-    url: publications/2012/Gattupalli_A-Simulation-Framework
+    url: /publications/2012/Gattupalli_A-Simulation-Framework
   title: A Simulation Framework for Evolution on Uneven Terrains for Synchronous Drive
     Robot
   venue: Journal of Advanced Robotics 2012
 - authors: Rahul Namdev, K Madhava Krishna and C V Jawahar.
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/namdev_etal_icra2012.pdf
     display: "Project Page"
-    url: publications/2012/Namdev_Motion-Segmentation
+    url: /publications/2012/Namdev_Motion-Segmentation
   title: Motion Segmentation of Multiple Objects from a Freely Moving Monocular Camera
   venue: ICRA 2012
 - authors: Roopak Dubey, Neeraj Pradhan, K Madhava Krishna and Shubhajit Roy Chowdhury.
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Roopak_etal_ROBIO2012.pdf
     display: "Project Page"
-    url: publications/2012/Dubey_Field-Programmable
+    url: /publications/2012/Dubey_Field-Programmable
   title: Field Programmable Gate Array (FPGA) Based Collision Avoidance Using Acceleration
     Velocity Obstacles
   venue: ROBIO 2012
