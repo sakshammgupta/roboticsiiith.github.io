@@ -1,4 +1,4 @@
-# Allan Lab Website
+<!-- # Allan Lab Website
 
 This is the website of our academic research group at Leiden University.
 
@@ -8,11 +8,19 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 
 
 Copyright Allan Lab. Code released under the MIT License.
-
+ -->
 
 ### Getting started:
 - Install [Jekyll](https://jekyllrb.com/docs/).
 - Clone this repository and `cd`.
 - Run `bundle install` to install all the required 'gems'.
 - Run `bundle exec jekyll serve --livereload` to build the site and run it on a local server.
+
+### Serving on IIITH Server
+- SSH into the website server
+- Pull latest changes from GitHub
+- Run `bundle exec jekyll build`
+- This will build the site in `_site` folder
+- Copy the contents of `_site` in `/var/www/html`
+- Your latest changes will now be reflected on https://robotics.iiit.ac.in
 
