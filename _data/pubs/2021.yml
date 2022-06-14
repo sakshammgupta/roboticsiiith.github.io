@@ -25,6 +25,8 @@
   link: #
     url:
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "Non Holonomic Collision Avoidance under Non-Parametric Uncertainty: A Hilbert Space Approach"
   authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
@@ -33,6 +35,8 @@
   link: #
     url:
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "Incorporating Prediction in Control Barrier Function Based Distributive Multi-Robot Collision Avoidance"
   authors: Pravin Mali, K. Harikumar, Arun Kumar Singh, K. Madhava Krishna and P.B. Sujit
@@ -41,6 +45,8 @@
   link: #
     url: /publications/2021/Mali_Incorporating-Prediction
     display: Project Page 
+  id: mkrishna
+  featured: 1
 
 #################### Visapp Papers #################################
 
@@ -51,6 +57,8 @@
   link: #
     url:
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "Early Bird: Loop Closures from Opposing Viewpoints for Perceptually-Aliased Indoor Environments"
   authors: Satyajit Tourani, Dhagash Desai, Udit Singh Parihar, Sourav Garg, Ravi Kiran Sarvadevabhatla, 
@@ -60,6 +68,8 @@
   link: #
     url:
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "BirdSLAM: Monocular Multibody SLAM in Bird's-Eye View"
   authors: Swapnil Daga, Gokul B. Nair, Anirudha Ramesh, Rahul Sajnani, Junaid Ahmed Ansari and K. Madhava Krishna. 

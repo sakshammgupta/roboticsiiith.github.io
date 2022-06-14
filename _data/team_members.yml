@@ -2,6 +2,8 @@
   photo: madhav.jpeg
   info: Professor and Lab Head, started 2005
   email: mkrishna@iiit.ac.in
+  url: /faculty_mkrishna
+  id: mkrishna
   number_educ: 4
   education1: Ph.D. at Indian Institute of Technology, Kanpur
   education2: Postdoc at LAAS-CNRS, France
@@ -12,6 +14,8 @@
   photo: spandan.jpeg
   info: Assistant Professor, started 2020
   email: Bastiaans@Physics.LeidenUniv.nl
+  url: /faculty_sroy
+  id: sroy
   number_educ: 4
   education1: Ph.D. at Indian Institute of Technology, Delhi
   education2: Postdoc at TU Delft
@@ -22,6 +26,8 @@
   photo: hari.jpeg
   info: Assistant Professor, started 2020
   email: niu@physics.leidenuniv.nl
+  url: /faculty_hkandath
+  id: hkandath
   number_educ: 4
   education1: Ph.D. at Indian Institute of Science, Bangalore
   education2: Research Fellow at NTU Singapore
@@ -32,6 +38,8 @@
   photo: mani.jpeg
   info: Assistant Professor, started 2020
   email: chatzopoulos@Physics.LeidenUniv.nl
+  url: /faculty_ngovindan
+  id: ngovindan
   number_educ: 3
   education1: Ph.D. at Indian Institute of Technology, Madras
   education2: <a href="https://nagamanigi.wixsite.com/home"> Personal Webpage </a>
