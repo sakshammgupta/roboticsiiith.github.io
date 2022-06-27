@@ -131,8 +131,9 @@ firstp {
 /* Custom */
 
 .pubscroll {
-	max-height: 300px; /* Change to your desired max height */
+	max-height: 500px; /* Change to your desired max height */
 	overflow-y: scroll;
+	overflow-x: scroll;
 	background-color: #fff;
     background-color: rgba(255,255,255,0.5);
 }

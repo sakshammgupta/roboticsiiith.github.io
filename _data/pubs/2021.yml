@@ -7,6 +7,8 @@
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2021/Sajnani_DRACO
     display: Project Page
+  id: mkrishna
+  featured: 0
 
 # - title: "Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots"
 #   authors: B.B. Kocer, M.A. Hady, K. Harikumar, M. Pratama and M. Kovac
@@ -37,7 +39,7 @@
     url:
     display: Project Page
   id: mkrishna
-  featured: 1
+  featured: 0
 
 - title: "Non Holonomic Collision Avoidance under Non-Parametric Uncertainty: A Hilbert Space Approach"
   authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
@@ -47,7 +49,7 @@
     url:
     display: Project Page
   id: mkrishna
-  featured: 1
+  featured: 0
 
 - title: "Incorporating Prediction in Control Barrier Function Based Distributive Multi-Robot Collision Avoidance"
   authors: Pravin Mali, K. Harikumar, Arun Kumar Singh, K. Madhava Krishna and P.B. Sujit
@@ -57,7 +59,7 @@
     url: /publications/2021/Mali_Incorporating-Prediction
     display: Project Page 
   id: mkrishna
-  featured: 1
+  featured: 0
 
 #################### Visapp Papers #################################
 
@@ -69,7 +71,7 @@
     url:
     display: Project Page
   id: mkrishna
-  featured: 1
+  featured: 0
 
 - title: "Early Bird: Loop Closures from Opposing Viewpoints for Perceptually-Aliased Indoor Environments"
   authors: Satyajit Tourani, Dhagash Desai, Udit Singh Parihar, Sourav Garg, Ravi Kiran Sarvadevabhatla, 
@@ -80,7 +82,7 @@
     url:
     display: Project Page
   id: mkrishna
-  featured: 1
+  featured: 0
 
 - title: "BirdSLAM: Monocular Multibody SLAM in Bird's-Eye View"
   authors: Swapnil Daga, Gokul B. Nair, Anirudha Ramesh, Rahul Sajnani, Junaid Ahmed Ansari and K. Madhava Krishna. 
@@ -129,6 +131,8 @@
   link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Nomaan_Qureshi_et_al_RTVS.html
     url: /publications/2021/Qureshi_RTVS
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "Modular Pipe Climber III with Three-Output Open Differential"
   authors: Rama Vadapalli*, Saharsh Agarwal, Vishnu Kumar, Kartik Suryavanshi, 
@@ -138,31 +142,38 @@
   link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
     url: /publications/2021/Vadapalli_Modular-Pipe-Climber
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching"
   authors: Udit Singh Parihar*, Aniket Gujarathi*, Kinal Mehta*, Satyajit Tourani*, Sourav Garg, 
            Michael Milford, K. Madhava Krishna
-
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://uditsinghparihar.github.io/RoRD/
     url: /publications/2021/Parihar_RoRD
     display: Project Page
+  id: mkrishna
+  featured: 1
+
 
 - title: "Grounding Linguistic Commands to Navigable Regions"
   authors: Nivedita Rufus*, Kanishk Jain, Unni Krishnan R Nair, Vineet Gandhi, K. Madhava Krishna
-
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Nivedita_Rufus_et_al_Grounding_Linguistic_Commands_to_Navigable_Regions.html
     url: /publications/2021/Rufus_Grounding-Linguistic-Commands
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments"
   authors: Karnik Ram*, Chaitanya Kharyal, Sudarshan S. Harithas, K. Madhava Krishna
-
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_karnik_RP-VIO_et_al.html
     url: /publications/2021/Ram_RP-VIO
     display: Project Page
+  id: mkrishna
+  featured: 1
+  
 
 - title: "Design and Analysis of Modular Pipe Climber-III with a Multi-Output Differential Mechanism"
   authors: Vishnu Kumar, Saharsh Agarwal, Rama Vadapalli, Nagamanikandan Govindan, K. Madhava Krishna
@@ -174,11 +185,12 @@
 
 - title: "Efficient Manoeuvring of Quadrotor under Constrained Space and Predefined Accuracy"
   authors: Sourish Ganguly, Viswa N. Sankaranarayanan, B. V. S. G. Suraj, Rishabh Dev Yadav, and Spandan Roy
-
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2021/Ganguly_Efficient-Manoeuvring-Quadrotor
     display: Project Page
+  id: sroy
+  featured: 1
 
 - title: "Adaptive Sliding Mode Control for Autonomous Vehicle Platoon under Unknown Friction Forces"
   authors: Rishabh Dev Yadav, Viswa N. Sankaranarayanan, and Spandan Roy
@@ -187,3 +199,5 @@
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2021/Yadav_Adaptive-Mode-Control
     display: Project Page
+  id: sroy
+  featured: 1

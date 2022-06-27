@@ -1,31 +1,42 @@
 - title: "CCO-VOXEL: Chance Constrained Optimization over Uncertain Voxel-Grid Representation for Safe Trajectory Planning"
   authors: Sudarshan S Harithas, Rishabh Dev Yadav, Deepak Singh, Arun Kumar Singh, K Madhava Krishna 
-
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2022
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2022/Harithas_CCO-VOXEL
     display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "Robust Manoeuvring of Quadrotor under Full State Constraints"
   authors: Sourish Ganguly, Viswa N. Sankaranarayanan, B. V. S. G. Suraj, Rishabh Dev Yadav, and Spandan Roy
-
   venue: Automatic Control and Dynamical Optimization Society (ACODS 2022)
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2022/Ganguly_Robust-Manoeuvring-Quadrotor-full-state-constraints
     display: Project Page
+  id: sroy
+  featured: 1
 
 - title: "Robustifying Payload Carrying Operations for Quadrotors Under Time-Varying State Constraints and Uncertainty"
   authors: Viswa N. Sankaranarayanan, Rishabh Dev Yadav, Rahul K. Swayampakula, Sourish Ganguly, and Spandan Roy
-
   venue: IEEE Robotics and Automation Letters (IEEE-RAL 2022)
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2022/Sankaranarayanan_Robustifying-Payload-Carrying
     display: Project Page
+  id: sroy
+  featured: 1
 
 - title: "ReF -- Rotation Equivariant Features for Local Feature Matching"
   authors: Abhishek Peri\*, Kinal Mehta\*, Avneesh Mishra, Michael Milford, Sourav Garg, and K. Madhava Krishna
-
   venue: arXiv (Submitted to IEEE-IROS 2022)
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2022/Peri_ReF
     display: Project Page
+
+- title: "Learning Actions for Drift-Free Navigation in Highly Dynamic Scenes"
+  authors: Mohd Omama, Sundar Sripada V. S., Sandeep Chinchali, K. Madhava Krishna
+
+  venue: American Control Conference (ACC 2022)
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2022/LADFN
+    display: Project Page
+    

@@ -42,7 +42,7 @@ Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-<img src="https://github.com/{{member.github}}.png" class="img-responsive" width="25%" style="float: left" />
+<img src="https://github.com/{{member.github}}.png" class="img-responsive" width="25%" style="float: left;" />
 <h4> {{ member.name }} </h4>
 <i>{{ member.email }} </i>
 <ul style="overflow: hidden">
