@@ -25,7 +25,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 3
-permalink: publications/2021/Rayguru_An-Output-Feedback
+permalink: /publications/2021/Rayguru_An-Output-Feedback/
 abstract: "—Mobile robots play a crucial role in cleaning, maintenance, and surveillance applications. This article advocates for the use of a novel robust output feedback based path following controller, for a class of selfreconfigurable mobile robot under actuator saturation. The
 reconfigurability property of such platforms is captured via an uncertain Euler–Lagrange dynamics. The proposed control framework estimates the unmeasurable states and the uncertain dynamics terms through two extended high gain observers, whereas the actuator limits are honored via a fast dynamic compensator. The closed-loop stability is analyzed via contraction theory, which, compared to
 the conventional Lyapunov based approaches, avoids the requirement of arbitrarily large controller and observer gains. Such a feature is of particular interest in view of actuator saturation. The experimental results with PANTHERA self-reconfigurable robot validate the effectiveness of the proposed technique over the state of the art."

@@ -3,7 +3,7 @@ title: "Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots"
 layout: project-pagelay
 excerpt: "Project Page"
 sitemap: false
-permalink: /2021/Deep-Neuromorphic-Controller
+permalink: /2021/Deep-Neuromorphic-Controller/
 ---
 
 *This work has been accepted at ICRA 2021!*

@@ -22,7 +22,7 @@ affiliations:
   - name: Indian Institute of Science Education and Research Bhopal
     link: #
     sup: 3
-permalink: publications/2021/Mali_Incorporating-Prediction
+permalink: /publications/2021/Mali_Incorporating-Prediction/
 abstract: "Control barrier function (CBF) constraints provide a rigorous characterization of the space of control inputs that ensure the satisfaction of state constraints, such as collision
 avoidance, at all time instants. However, CBFs are highly nonlinear and non-convex and thus, when incorporated within an optimization-based algorithm such as Model Predictive Control (MPC), leads to a computationally challenging problem. Existing works by-pass the computational intractability by
 collapsing the horizon of the MPC to a single step, although this comes at the cost of severe degradation of performance. In this paper, we present two contributions to ensure the real-time performance of CBFs based MPC over long horizons in the context of multi-robot collision avoidance. First, we propose a customized Project Gradient Descent Method that incurs minimal computational overhead over existing one-step approaches but leads to a substantial improvement in trajectory
