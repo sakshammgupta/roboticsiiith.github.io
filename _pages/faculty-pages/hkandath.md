@@ -1,7 +1,7 @@
 ---
 layout: faculty-page
 title: "Harikumar Kandath"
-permalink: /faculty_hkandath
+permalink: /faculty_hkandath/
 id: hkandath
 ---
 

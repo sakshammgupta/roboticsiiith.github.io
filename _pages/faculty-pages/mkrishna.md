@@ -1,7 +1,7 @@
 ---
 layout: faculty-page
 title: "K Madhava Krishna"
-permalink: /faculty_mkrishna
+permalink: /faculty_mkrishna/
 id: mkrishna
 ---
 

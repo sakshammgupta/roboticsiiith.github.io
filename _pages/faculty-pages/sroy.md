@@ -1,7 +1,7 @@
 ---
 layout: faculty-page
 title: "Spandan Roy"
-permalink: /faculty_sroy
+permalink: /faculty_sroy/
 id: sroy
 ---
 

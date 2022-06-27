@@ -1,7 +1,7 @@
 ---
 layout: faculty-page
 title: "Nagamanikandan Govindan"
-permalink: /faculty_ngovindan
+permalink: /faculty_ngovindan/
 id: ngovindan
 ---
 
