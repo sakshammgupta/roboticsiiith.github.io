@@ -16,6 +16,17 @@
 #     url: /2021/Deep-Neuromorphic-Controller
 #     display: Project Page
 
+############## ACM Papers ##########################
+
+- title: "RackLay: Monocular Multi-Layered Layout Estimation for Warehouses with Sim2Real Transfer"
+  authors: Meher Shashwat Nigam\*, Avinash Prabhu\*, Anurag Sahu\*, Tanvi Karandikar, Puru Gupta, 
+           N. Sai Shankar, Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
+
+  venue: ACM Indian Conference on Computer Vision, Graphics and Image Processing (ACM ICVGIP), 2021
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2021/Nigam_RackLay
+    display: Project Page
+
 ############## ECC 21 Papers ##########################
 
 - title: "Probabilistic Inverse Velocity Obstacle for Free Flying Quadrotors"
@@ -161,3 +172,18 @@
     url: /publications/2021/Kumar_Design
     display: Project Page
 
+- title: "Efficient Manoeuvring of Quadrotor under Constrained Space and Predefined Accuracy"
+  authors: Sourish Ganguly, Viswa N. Sankaranarayanan, B. V. S. G. Suraj, Rishabh Dev Yadav, and Spandan Roy
+
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2021/Ganguly_Efficient-Manoeuvring-Quadrotor
+    display: Project Page
+
+- title: "Adaptive Sliding Mode Control for Autonomous Vehicle Platoon under Unknown Friction Forces"
+  authors: Rishabh Dev Yadav, Viswa N. Sankaranarayanan, and Spandan Roy
+
+  venue: International Conference on Advanced Robotics (ICAR 2021)
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2021/Yadav_Adaptive-Mode-Control
+    display: Project Page

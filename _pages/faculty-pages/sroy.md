@@ -36,7 +36,7 @@ Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}
 <div class='pubscroll'>
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
-{% if member.supervisorid == page.id" %}
+{% if member.supervisorid == page.id %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
 <div class="row">
