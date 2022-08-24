@@ -14,7 +14,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-permalink: publications/2019/Jyotish_PIVO-Probabilistic-Inverse-Velocity
+permalink: /publications/2019/Jyotish_PIVO-Probabilistic-Inverse-Velocity/
 abstract: "In this paper, we present an algorithmic framework which computes the collision free velocities for the robotin a human shared dynamic and uncertain environment. We extend the concept of Inverse Velocity Obstacle (IVO) to a probabilistic variant to handle the state estimation and motion uncertainties that arise due to the other participants of the environment. These uncertainties are modeled as non-parametric probability distributions. In our PIVO: Probabilistic Inverse Velocity Obstacle, we propose the collision-free navigation as an optimization problem by reformulating the velocity condi-tions of IVO as chance constraints that takes the uncertainty into account. The space of collision-free velocities that result from the presented optimization scheme are associated to a confidence measure as a specified probability. We demonstratethe efficacy of our PIVO through numerical simulations and demonstrating its ability to generate safe trajectories under highly uncertain environments."
 paper: https://iiitaphyd-my.sharepoint.com/:b:/g/personal/robotics_iiit_ac_in/Ec7_DymuePVHmJs5EpXLb-sBbU5RZbioEjp0ueBaGJfYrQ?download=1
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA

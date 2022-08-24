@@ -19,7 +19,7 @@ affiliations:
   - name: Department of Electrical Engineering, Laboratory, University of Coimbra, Pine, Morocco
     link: #
     sup: 1
-permalink: publications/2008/Handa_Person
+permalink: /publications/2008/Handa_Person/
 abstract: "This paper deals with the tracking and following of a person with a camera
 mounted mobile robot. A modified energy based optical flow approach is used for motion segmentation from a pair of images. Further a spatial relative veolcity based filering is used to extract prominently moving objects. Depth and color information are also used to robustly identify and follow a person."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/2008_6.pdf

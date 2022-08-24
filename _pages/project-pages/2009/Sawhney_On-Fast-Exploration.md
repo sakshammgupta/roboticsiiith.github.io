@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2009/Sawhney_On-Fast-Exploration
+permalink: /publications/2009/Sawhney_On-Fast-Exploration/
 abstract: "We present a fast multi-robotic exploration methodology for 2D and 3D terrains. An asynchronous exploration strategy is introduced which shows significant improvements over the
 existing synchronous ones. A per-time visibility metric is being utilized by the algorithm. The metric allots the same weight for points for next view whose visibility over time ratios are equal.
 The outcome of this is that while the number of points visited to explore a terrain is nearly the same as other popular metrics found in literature, the time length of the paths are smaller in

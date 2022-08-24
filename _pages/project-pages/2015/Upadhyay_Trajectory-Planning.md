@@ -14,7 +14,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2015/Upadhyay_Trajectory-Planning
+permalink: /publications/2015/Upadhyay_Trajectory-Planning/
 abstract: "In this paper, we propose a novel planning technique for monocular camera based Simultaneous Localization and Mapping(VSLAM). In VSLAM, the objective is to estimate the
 trajectory of camera and simultaneously identify 3D feature points and build a map, using camera as a depth sensor. Unlike a laser range finder based SLAM, VSLAM is known to be erroneous when camera motion includes an in-place rotation or feature displacement is large for successive frames. We
 propose a motion planning framework which combines motion primitives based planning and trajectory optimization approach to generate trajectories which exactly connects an initial and final state and also ensures that the change in camera’s field of view between subsequent instances is less

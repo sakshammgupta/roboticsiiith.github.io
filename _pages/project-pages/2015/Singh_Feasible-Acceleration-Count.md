@@ -10,7 +10,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: #
     sup: #
-permalink: publications/2015/Singh_Feasible-Acceleration-Count
+permalink: /publications/2015/Singh_Feasible-Acceleration-Count/
 abstract: "Application of wheeled mobile robots have gradually progressed from the confines of structured indoor environments to rough outdoor terrains. Material transport and exploration are some of the few areas where wheeled robots are required to navigate over uneven terrains. Stable and efficient navigation of wheeled robots over uneven terrains require a framework which can correctly
 ascertain the stability and maneuverability for a given robot’s state. Most existing works on uneven terrain navigation assumes a one-to-one correspondence between postural stability and maneuverability. In this paper, we show that such characterization is incomplete as states having high postural stability may have restricted maneuverability depending on underlying terrain topology. We thus, present a novel metric called Feasible Acceleration Count (FAC), introduced in
 our earlier works as an unified measure of robot stability and maneuverability. The metric gives the measure of the space of feasible accelerations available to the robot at a given state. The feasibility is decided by a set of inequalities which depends not only on robot’s state but also on surface normals at the wheel ground contact point. This unique feature of the FAC metric makes it

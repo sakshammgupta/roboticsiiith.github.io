@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-permalink: publications/2016/Pandya_Discriminative-Learning
+permalink: /publications/2016/Pandya_Discriminative-Learning/
 abstract: "Classical visual servoing approaches use visual features based on geometry of the object such as points, lines, region, etc. to attain the desired camera pose. However, geometrical features are not suited for visual servoing across different object instances due to large variations in appearance and shape. In this paper, we present a new framework for visual servoing across object instances. Our approach is based on a discriminative learning framework where the desired pose
 is estimated using previously seen examples. Specifically, we learn a binary classifier that separates the desired pose from all other poses for that object category. The classification error
 is then used to control the end-effector so that the desired pose is attained. We present controllers for linear, kernel and exemplar Support Vector Machine (SVM) and empirically discuss their performance in the visual servoing context. To address large intra-category variation in appearance, we propose a modified version of Histogram of Oriented Gradients (HOG) features

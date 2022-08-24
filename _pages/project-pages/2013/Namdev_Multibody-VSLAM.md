@@ -13,7 +13,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: #
     sup: #
-permalink: publications/2013/Namdev_Multibody-VSLAM
+permalink: /publications/2013/Namdev_Multibody-VSLAM/
 abstract: "A solution to the relative scale problem where reconstructed moving objects and the stationary world are represented in a unified common scale has proven equivalent to a conjecture. Motion reconstruction from a moving monocular camera is considered ill posed due to known problems of
 observability. We show for the first time several significant motion reconstruction of outdoor vehicles moving along nonholonomic curves and straight lines. The reconstructed motion is represented in the unified frame which also depicts the estimated camera trajectory and the reconstructed stationary world. This is possible due to our Multibody VSLAM framework with a novel solution for relative scale proposed in the current paper. Two solutions that compute the relative scale are proposed. The solutions provide for a unified representation within four views of reconstruction of the moving object and are thus immediate. In one, the solution for the scale is that which satisfies the planarity constraint of the object motion. The assumption of planar object motion while being generic enough is subject to stringent degenerate situations that are
 more widespread. To circumvent such degeneracies we assume that the object motion to be locally circular or linear and find the relative scale solution for such object motions. Precise

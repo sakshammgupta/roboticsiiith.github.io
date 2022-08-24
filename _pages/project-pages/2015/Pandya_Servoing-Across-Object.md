@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-permalink: publications/2015/Pandya_Servoing-Across-Object
+permalink: /publications/2015/Pandya_Servoing-Across-Object/
 abstract: "Traditional visual servoing is able to navigate a robotic system between two views of the same object. However, it is not designed to servo between views of different objects. In this paper, we consider a novel problem of servoing any instance (exemplar) of an object category to a desired pose (view) and propose a strategy to accomplish the task. We use features that semantically encode the locations of object parts and define the servoing error as the difference between positions of
 corresponding parts in the image space. Our controller is based on the linear combination of 3D models, such that the resulting model interpolates between the given and desired instances. We
 conducted our experiments on five different object categories in simulation framework and show that our approach achieves the desired pose with smooth trajectory. Furthermore, we show the performance gain achieved by using a linear combination of models (instances) vis a vis a controller that switches across models during servoing in terms of trajectory’s length, smoothness and error in camera pose and image features."

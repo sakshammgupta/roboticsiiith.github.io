@@ -10,7 +10,7 @@ affiliations:
   - name: CSCE Dept., University of Arkansas, Fayetteville AR
     link: #
     sup: #
-permalink: publications/2004/Krishna_Reactive-Collision-Avoidance
+permalink: /publications/2004/Krishna_Reactive-Collision-Avoidance/
 abstract: "A strategy for collision avoidance between several moving robots that are not in possession of each other’s plans is presented here. A robot’s awareness of other robots is
 limited to the knowledge of their current states represented by their present and impending velocities and their motion direction. A robot is aware of the presence of other robots
 when they fall within its field of vision. Collision avoidance is attempted at three levels namely at individual, cooperative and propagation levels through velocity control. At individual level

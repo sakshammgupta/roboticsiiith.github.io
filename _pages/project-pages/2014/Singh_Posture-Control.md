@@ -15,7 +15,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 2
-permalink: publications/2014/Singh_Posture-Control
+permalink: /publications/2014/Singh_Posture-Control/
 abstract: "In this paper, we present a posture control scheme for step climbing by an in-house developed three-segmented tracked robot, miniUGV. The posture control scheme results in minimum torque at the actuated joints of the segments. Non-linear optimization is carried out offline for progressively decreasing distance of the robot from the step with torque minimization as objective function and force balance, motor torque limits, slippage avoidance and interference avoidance
 constraints. The resulting angles of the joints are fitted to a third degree polynomial as a function of the robot distance from the step and the step height. It is shown that a single set
 of polynomial functions is sufficient for climbing steps of all permissible heights and angles of attack of the front segment. The methodology has been verified through simulation followed

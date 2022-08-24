@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2009/Kundu_Moving-Object-Detection
+permalink: /publications/2009/Kundu_Moving-Object-Detection/
 abstract: "The ability to detect, and track multiple moving objects like person and other robots, is an important prerequisite for mobile robots working in dynamic indoor environments. We approach this problem by detecting independently moving objects in image sequence from a monocular camera mounted
 on a robot. We use multi-view geometric constraints to classify a pixel as moving or static. The first constraint, we use, is the epipolar constraint which requires images of static points to
 lie on the corresponding epipolar lines in subsequent images. In the second constraint, we use the knowledge of the robot motion to estimate a bound in the position of image pixel along the epipolar line. This is capable of detecting moving objects followed by a moving camera in the same direction, a so-called degenerate configuration where the epipolar constraint fails. To classify the moving pixels robustly, a Bayesian framework is used to assign a probability that the pixel is stationary

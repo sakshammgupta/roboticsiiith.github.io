@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2011/Eathakota_Quasi-Static-Motion-Planning
+permalink: /publications/2011/Eathakota_Quasi-Static-Motion-Planning/
 abstract: "In this paper we present a motion planning algorithm connecting a starting and ending goal positions of a wheeled mobile robot (WMR) with a passive variable camber (PVC) on a fully 3D uneven terrain without slipping. The overall planning framework is along the lines of the RRT
 (Rapidly Exploring Random Tree). The curve connecting the adjacent nodes of the RRT is a quasi-static path which is generated using the forward motion problem based on the Peshkin’s minimum energy principle which combines the force and kinematic relationships of the WMR into a nonlinear
 optimization problem. The output of this optimization routine is a set of ordinary differential equations (ODEs) representing the non-holonomic constraints and wheel ground contact conditions

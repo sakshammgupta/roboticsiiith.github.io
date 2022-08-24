@@ -12,7 +12,7 @@ affiliations:
   - name: International Institute of Information Technology, Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2010/J_An-Adaptive-Outdoor
+permalink: /publications/2010/J_An-Adaptive-Outdoor/
 abstract: "An adaptive partition based Random Forests classifier for outdoor terrain classification is presented in this paper. The classifier is a combination of two underlying classifiers. One
 of which is a random forest learnt over bootstrapped or offline dataset, the second is another random forest that adapts to changes on the fly. Posterior probabilities of both the static
 and changing/online classifiers are fused to assign the eventual label for the online image data. The online classifier learns at frequent intervals of time through a sparse and stable set

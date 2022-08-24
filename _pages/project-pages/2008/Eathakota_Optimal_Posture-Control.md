@@ -18,7 +18,7 @@ affiliations:
   - name: Robotics Institute, Carnegie Mellon University, Pittsburg, USA
     link: #
     sup: #
-permalink: publications/2008/Eathakota_Optimal-Posture-Control
+permalink: /publications/2008/Eathakota_Optimal-Posture-Control/
 abstract: "In this paper we develop a model of a Linear Force Actuator based actively articulated
 suspension vehicle with toroidal wheels and propose a strategy to control its contact forces to
 improve traction on uneven terrain in 3-D while maintaining a desired posture. We develop

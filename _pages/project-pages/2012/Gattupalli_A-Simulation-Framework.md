@@ -14,7 +14,7 @@ affiliations:
   - name: Robotics Research Center, IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2012/Gattupalli_A-Simulation-Framework
+permalink: /publications/2012/Gattupalli_A-Simulation-Framework/
 abstract: "This paper presents a simulation framework for evolution on uneven terrains for a wheeled
 mobile robot such as a synchronous drive robot. The framework lends itself as a tool capable
 of solving various problems, such as forward kinematic based evolution, inverse kinematic based

@@ -15,7 +15,7 @@ affiliations:
   - name: Computer Science Dept, Southern Illinois University, Carbondale, IL, 62901, USA
     link: #
     sup: #
-permalink: publications/2007/Pandey_Feature-Chain-Based-Occupancy-Grid
+permalink: /publications/2007/Pandey_Feature-Chain-Based-Occupancy-Grid/
 abstract: "This paper presents a methodology for achieving SLAM onto the occupancy grid framework with the data only from sonar sensors. Sonar data are highly noisy and unpredictable. Sonar does not give the consistent readings for a point from two different positions, so the approaches which
 rely on correspondence reading matching will prone to fail without exhaustive mathematical calculations of sonar modeling and environment modeling. Also, if features are being use to localize then the robot needs to revisit those features exactly, to localize, which itself will not be accurate because robot will not be at the exact position from where that feature has been detected. Hence it will not get back those feature readings using sonar. Here we are presenting a hybrid
 approach based on feature chain. Instead of relying completely on feature mapping and point matching, it finds the links between features to localize. It will drastically reduce the need

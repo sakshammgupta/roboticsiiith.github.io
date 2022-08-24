@@ -15,7 +15,7 @@ affiliations:
   - name: Indian Institute of Science, Bangalore
     link: #
     sup: 2
-permalink: publications/2012/Singh_Optimum-Steering-input-determination
+permalink: /publications/2012/Singh_Optimum-Steering-input-determination/
 abstract: "In this paper we propose a framework for optimum steering input determination of all-wheel steer vehicles (AWSV) on rough terrains. The framework computes the steering input which minimizes the tracking error for a given trajectory. Unlike previous methodologies of computing steering inputs of car-like vehicles, the proposed methodology depends explicitly on the vehicle dynamics and can be extended to vehicle having arbitrary number of steering inputs. A fully
 generic framework has been used to derive the vehicle dynamics and a non-linear programming based constrained optimization approach has been used to compute the steering input considering the instantaneous vehicle dynamics, no-slip and contact constraints of the vehicle. All Wheel steer Vehicles have a special parallel steering ability where the instantaneous centre of rotation (ICR) is at infinity . The proposed framework automatically enables the vehicle to choose between parallel
 steer and normal operation depending on the error with respect to the desired trajectory. The efficacy of the proposed framework is proved by extensive uneven terrain simulations, for trajectories with continuous or discontinuous velocity profile."

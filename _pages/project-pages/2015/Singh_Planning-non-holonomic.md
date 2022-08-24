@@ -16,7 +16,7 @@ affiliations:
   - name: School of Earth and Space Exploration, Arizona State University
     link: #
     sup: 2
-permalink: publications/2015/Singh_Planning-non-holonomic
+permalink: /publications/2015/Singh_Planning-non-holonomic/
 abstract: "In this paper, we present a framework for generating smooth and stable trajectories for wheeled mobile robots moving on uneven terrains. Instead of relying on static stability measures, the paper incorporates velocity and acceleration based constraints like no-slip and permanent wheel
 ground contact conditions in the planning framework. The paper solves this complicated problem in a computationally efficient manner with full 3D dynamics of the robot. The two major aspects of the proposed work are: Firstly, closed form functional relationships are derived which describes
 the 6 dof evolution of the robot’s state on an arbitrary 2.5D uneven terrain. This enables us to have a fast evaluation of robot’s dynamics along any candidate trajectory. Secondly, a novel concept of non-linear time scaling is introduced through which simple algebraic relations defining the

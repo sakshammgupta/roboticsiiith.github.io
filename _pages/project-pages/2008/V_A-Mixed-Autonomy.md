@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2008/V_A-Mixed-Autonomy
+permalink: /publications/2008/V_A-Mixed-Autonomy/
 abstract: "We present a method for coordinating multirobotic/multi-agent traffic control at intersections. The robotic agents (RA) move guided by a potential field along the lanes.
 At the intersections an intersection agent (IA) controls the flow of traffic by assigning priorities to the agents that are about to enter the intersection. The priorities are computed based on the
 density of RA in a lane and the flow rate of traffic in those lanes. The RAs integrate these assigned priorities into their potential field computations. The modified potential field computations help the RAs to move through the intersection avoiding collisions. An elegant mixed autonomy scheme is thereby achieved where the IAs decide upon the priorities at the intersection

@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2009/E_Estimating-Ground
+permalink: /publications/2009/E_Estimating-Ground/
 abstract: "We present a method for extracting ground and other planes from a single non rotating laser mounted on a slow moving car used for on-road driving. A laser scan is decomposed into linear clusters. Corresponding clusters from subsequent scans are merged to form planes. The ground plane
 is identified based on the current vehicle height and the variance in height of the planes. Once these seed planes are identified future scan points either get associated with these planes or
 result in formation of new planes. Scan points that do not belong to any of the plane are left as such in the representation. Since the robustness of the method is contingent on how a single scan

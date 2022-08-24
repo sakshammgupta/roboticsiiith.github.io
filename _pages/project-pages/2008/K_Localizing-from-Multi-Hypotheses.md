@@ -17,7 +17,7 @@ affiliations:
   - name: RIA, LAAS-CNRS Toulouse, France
     link: #
     sup: #
-permalink: publications/2008/K_Localizing-from-Multi-Hypotheses
+permalink: /publications/2008/K_Localizing-from-Multi-Hypotheses/
 abstract: "This paper explains how to singularize a robot to a unique hypothesis state
 from a state of multiple hypotheses. This it does by computing a path whose expected distance is minimum from a tree where each path to the leaf from the root results in a singular hypothesis. At various nodes of the tree the number of hypotheses is reduced as it proceeds down from the root. The nodes of the tree are computed as the best locations to move from an earlier higher hypotheses
 state. They are either frontier regions or a direction of traversal that result in reduction of hypotheses from an earlier multi hypotheses state. The method has been tested robustly in various simulation situations and its efficacy confirmed."

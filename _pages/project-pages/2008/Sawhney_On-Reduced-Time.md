@@ -14,7 +14,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2008/Sawhney_On-Reduced-Time
+permalink: /publications/2008/Sawhney_On-Reduced-Time/
 abstract: "We present a method for finding reduced time coverage paths of multiple UAVs (Unmanned Air Vehicles) monitoring a 3D terrain represented as height fields. A novel metric based on per time
 visibility is used that couples visibility gained at a terrain point with the time spent to reach the point. This coupled metric is utilized to form reduced time paths by maximizing the visibility
 gained per unit time at every step. We compare the results of this approach with an approach that covers the terrain based on a per distance visibility metric, which reduces the sum, over distances

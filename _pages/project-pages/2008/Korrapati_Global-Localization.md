@@ -12,7 +12,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2008/Korrapati_Global-Localization
+permalink: /publications/2008/Korrapati_Global-Localization/
 abstract: "Global localization algorithms involve a search over all possible poses of the robot that can be typically over a large space in huge maps. Essentially it involves computing a posterior by seeing how probable are the obtained sensor readings at each of the discretized states in a map. Instead in this paper by reverse projecting the sensor readings from the obstacle boundaries onto the surroundings, a solution is obtained by searching over the space of obstacle boundaries
 than by a search in the discretized pose space. That this search over obstacle boundaries is considerably less if the ratio of free space to boundary space in a map is high is straightforward.
 However we also show theoretically that even when the boundary space exceeds the free space the computations due to the current method does not exceed those due to the popular Markov and Correlation based approaches to global localization. The comparative advantages are well documented

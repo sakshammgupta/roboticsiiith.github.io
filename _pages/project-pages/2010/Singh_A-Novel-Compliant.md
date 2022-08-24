@@ -14,7 +14,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: #
-permalink: publications/2010/Singh_A-Novel-Compliant
+permalink: /publications/2010/Singh_A-Novel-Compliant/
 abstract: "In this paper a novel suspension mechanism for rough terrain mobility is proposed. The proposed mechanism is simpler than the existing suspension mechanism in the sense that the number of links and joints has been significantly reduced without compromising the climbing ability of the
 rover. We explore the use of compliant elements like springs for passively controlling the degree of freedom of the proposed mechanism and a framework for optimizing the spring parameters has been proposed. A performance evaluation of the proposed mechanism has been shown in terms of extensive
 simulations."

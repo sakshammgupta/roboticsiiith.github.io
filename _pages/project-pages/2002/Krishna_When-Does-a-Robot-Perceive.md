@@ -10,7 +10,7 @@ affiliations:
   - name: Department of Electrical Engineering, Indian Institute of Technology, Kanpur
     link: #
     sup: #
-permalink: publications/2002/Krishna_When-does-a-Robot-Perceive
+permalink: /publications/2002/Krishna_When-does-a-Robot-Perceive/
 abstract: "Robots operating in a real-time environment encounter both stationary and moving
 objects that need to be negotiated using different schemes in general. Motion planning
 in a dynamic environment entails tracking moving objects and predicting their future
