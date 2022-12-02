@@ -1,49 +1,49 @@
 - name: K. Madhava Krishna
   photo: madhav.jpeg
   info: Professor and Lab Head, started 2005
-  email: mkrishna@iiit.ac.in
+  email: mkrishna (at) iiit.ac.in
   url: /faculty_mkrishna
   id: mkrishna
   number_educ: 4
   education1: Ph.D. at Indian Institute of Technology, Kanpur
   education2: Postdoc at LAAS-CNRS, France
   education3: <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en"> Google Scholars </a>
-  education4: Email - mkrishna@iiit.ac.in
+  education4: Email - mkrishna (at) iiit.ac.in
 
 - name: Spandan Roy
   photo: spandan.jpeg
   info: Assistant Professor, started 2020
-  email: Bastiaans@Physics.LeidenUniv.nl
+  email: Bastiaans (at) Physics.LeidenUniv.nl
   url: /faculty_sroy
   id: sroy
   number_educ: 4
   education1: Ph.D. at Indian Institute of Technology, Delhi
   education2: Postdoc at TU Delft
   education3: <a href="https://sites.google.com/view/spandanroy"> Personal Webpage </a>
-  education4: Email - spandan.roy@iiit.ac.in
+  education4: Email - spandan.roy (at) iiit.ac.in
 
 - name: Harikumar Kandath
   photo: hari.jpeg
   info: Assistant Professor, started 2020
-  email: niu@physics.leidenuniv.nl
+  email: niu (at) physics.leidenuniv.nl
   url: /faculty_hkandath
   id: hkandath
   number_educ: 4
   education1: Ph.D. at Indian Institute of Science, Bangalore
   education2: Research Fellow at NTU Singapore
   education3: <a href="https://scholar.google.co.in/citations?user=5i1t_QgAAAAJ&hl=en"> Google Scholars </a>
-  education4: Email - harikumar.kandath@iiit.ac.in
+  education4: Email - harikumar.kandath (at) iiit.ac.in
 
 - name: Nagamanikandan Govindan
   photo: mani.jpeg
   info: Assistant Professor, started 2020
-  email: chatzopoulos@Physics.LeidenUniv.nl
+  email: chatzopoulos (at) Physics.LeidenUniv.nl
   url: /faculty_ngovindan
   id: ngovindan
   number_educ: 3
   education1: Ph.D. at Indian Institute of Technology, Madras
   education2: <a href="https://nagamanigi.wixsite.com/home"> Personal Webpage </a>
-  education3: Email - nagamanikandan.g@iiit.ac.in
+  education3: Email - nagamanikandan.g (at) iiit.ac.in
 
 
 
