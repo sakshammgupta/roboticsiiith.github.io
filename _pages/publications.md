@@ -30,7 +30,7 @@ if (which_year){
 
 <!--  -->
 
-Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control. To read more about our what problems we try to solve, please check out the [research]() page. 
+Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control. To read more about our what problems we try to solve, please check out the [research]({{ site.url }}{{ site.baseurl }}/research) page. 
 
 <!-- For some of our group highlights and representative work, you can see them on the [highlights]() page.  -->
 

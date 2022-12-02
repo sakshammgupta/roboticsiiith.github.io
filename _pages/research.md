@@ -7,29 +7,82 @@ permalink: /research/
 ---
 
 # Research
+The following is a non-exhaustive list of the research areas and projects at RRC. 
 
-At the Robotics Research Center, we strive to extend the state-of-the-art in robotics, control, learning and AI. Our primary research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, Robot Mechanism and Control.
+---
 
-### Multi Robotic Systems
+## Autonomous Driving
 
-Multi Robotic systems have been widely used for carrying out a single task effectively with a team of agents. The central issue with multiple robots is computing collision free trajectories that is investigated in deterministic and probabilistic settings for distributed enviornment. The primary goal is to efficiently achieve the task of mapping an unknown environment using multiple robots.
 
-### Robot Mechanism
+#### *Self-Driving Car*
+Our lab has a custom-built self-driving stack for our Mahinda E2O vehicle. The stack comprises modular perception, planning, and control modules. We also have an on-campus shuttle-like service where the car is capable of autonomous pickup and drop-off. Our larger aim is to provide a research platform for self-driving that implements the complete tech stack with plug-and-play modules that will allow researchers to test new algorithms quickly at any layer of the stack on a real car. We have made strides in that area under the project **AutoDP**. Find out more about AutoDP [here]({{ site.url }}{{ site.baseurl }}/auto_dp).
 
-Designing mechanisms to transform motion to a desirable pattern and typically develop little forces and transmit little power is of interest in Robotics. Synthesis and Analysis of such designs to determine their rigid body behavior and how this may be useful in an application at hand is the prime focus of this area. Consolidating Design Choices to ensure easy implementation, assembly, maintenance is important. Control of such complicated designs taking into account stationary points in the configuration space, smooth trajectory, force, torque profile-following and energy efficiency are some practical aims.
+<center>
 
-### Mobile Robotics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkE3XBNgIe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Mobile robots have the capability to move around in their environment and are not fixed to one physical location. Mobile robots can be autonomous which means they are capable of navigating an uncontrolled environment without the need for physical or electro-mechanical guidance devices. Alternatively, mobile robots can rely on guidance devices that allow them to travel a pre-defined navigation route in relatively controlled space. Motion planning describes the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JnHEcHdM6I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Robot Vision
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwRe8JeU78g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The aim is to develop a spatially intelligent Robotic Vision System. The focus is on dynamic scene understanding both in indoor and outdoor environments and Reconstructing map with moving objects using both monocular and stereo camera. In the Indoor scenario, Monocular SLAM Based Exploration System is being developed. In the Outdoor scenario, estimating the motion of the camera as well as other dynamic objects and reconstructing those dynamic objects and their trajectories with a camera which is moving on the vehicle is of interest.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFLZsqDkHcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Aerial Robots
+</center>
 
-Quadcopters with their advance sensors and imaging capabilities have become an imperative part of the precision agriculture. The focus of this area is to develop and implement an autonomous system based on a Quadcopter attached with video camera, which can perform plantation monitoring and yield estimation using the supervised learning approach, while autonomously navigating through an inter-row path of the plantation. This system uses GPS for navigation along with advance machine learning techniques over images captured from camera.
+<br>
 
+#### *MPC based Collision Avoidance in On Road Scenes*
+Behavior Planner: The Behavior planner takes the current scene and generates a goal point based on the scene. The goal point is passed on to the trajectory optimizer to generate a trajectory. Depending on the goal point, the autonomous vehicle executes certain behaviors like lane change.
+
+Trajectory Optimizer: In Trajectory optimization, we optimize a trajectory that is bound by some constraints ex: kinematic constraints, control bound constraints, obstacle avoidance constraints etc. We use MPC to optimize the trajectory of the autonomous vehicles. We give a goal point and the MPC solves for a trajectory that has the shortest distance to the goal point following all the constraints.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/VzlC3T-wjKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+---
+
+## Robotic Vision
+
+
+#### *Autonomous Indoor Wheel Chair for Social Applications*
+The Vision-Language Robotic Navigation project (VNLP) aims to develop and deploy an autonomous interactive robotic wheelchair in hospital spaces, university campuses, and even residential spaces. The project involves building a robotic wheelchair equipped with sensors like depth cameras, LiDARs and a microphone to effectively interact with the dynamic environment and follow complex commands given by the operators. The project is demonstration dependent as much as it is research dependent. Current research addresses the problem of Referring Image Segmentation, that uses language commands to attend to correct entities in images. Peripheral projects include following a specified person in a crowd, finding a person/scene using scene recognition, etc., and localizing efficiently in long corridors.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/25nhXckY9Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### *Visual Servoing*
+Visual servoing addresses the problem of attaining a desired pose with respect to a given environment using image measurements from a vision sensor. At RRC, we have been actively researching deep visual servoing. We have investigated how optical flow can be used to guide visual servoing and how we can design novel control strategies for visual servoing. Our work on visual servoing has been accepted to significant robotics conferences like ICRA, IROS, CASE, and CoRL. We are currently investigating how to use these visual servoing frameworks to learn navigation policies from videos. 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pdAA7phmIfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### *Object Detection in Adverse Weather*
+Object detection is challenging under adverse weather conditions (such as fog or low-lighting) because the objects are partially or not visible, resulting in missed detections. We tackle this problem by proposing a Gated Differentiable Image Processing (GDIP) block, which enhances the image by performing weighted Image Processing (IP) operations concurrently on the adverse input image, leading to superior detection performance than other state-of-the-art methods.
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/dark_realworld_highquality.gif" class="img-responsive" width="80%" style="float: center"></center>
+
+---
+
+## Arial Robots and Control
+
+#### *Non-Linear Control of Quadrotors*
+Quadrotors find a vast potential use in delivery and disaster relief operations. Control becomes critical in such scenarios, especially when quadrotors have to manoeuvre through constrained spaces or deliver payloads at precise locations in the presence of external disturbances and parametric uncertainties stemming from uncertain payloads. Therefore, the controller has to guarantee a predefined tracking accuracy not to violate the state constraints . On the other hand, conventional fixed-valued state constraints are not suitable in many scenarios such as (i) initial offset being well beyond the expected accuracy, (ii) system dynamics experiencing significant transients due to the dropping of the payload. However, to the best of the authors’ knowledge, state-of-the-art controllers do not provide any solution for an underactuated system like a quadrotor when the system needs to honour time-varying constraints under uncertainties. This work proposes a controller for quadrotors which is robust against external disturbances and parametric variations and guarantees a time-varying predefined position, velocity, attitude, and attitude-rate accuracy. The closed-loop system stability is established analytically, and the effectiveness of the proposed controller is validated experimentally compared to the state-of-the-art under a precision payload delivery scenario.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mLv90hLakBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### *Fixed State Constraint Controller*
+In recent times, quadrotors have become immensely applicable in scenarios such as relief operations, infrastructure maintenance, search-and-rescue missions etc. A key control design challenge arises in these applications when the quadrotor has to manoeuvre through constrained spaces such as narrow windows, pipelines in the presence of external disturbances and parametric uncertainties: such conditions necessitate the controller to guarantee predefined tracking accuracy so as to not violate the constraints and simultaneously tackle uncertainties. However, state-of-the-art controllers dealing with constrained system motion are not applicable either for an underactuated system like quadrotor or for an uncertain system dynamics. This work proposes a robust controller that enables the quadrotor to follow a trajectory with predefined tracking accuracy in constrained space as well as to tackle uncertainties stemming from imprecise system modelling and external disturbances. The closed-loop system stability is analysed via the Barrier Lyapunov approach and the effectiveness of the proposed controller is validated via simulation with state of the art.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/10QTFtCpmB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### *Adaptive Artificial Time-Delay Controller*
+Quadrotors are becoming more and more essential for applications such as payload delivery, inspection and search-and-rescue. Such operations pose considerable control challenges, especially when various (a priori unbounded) state-dependent unknown dynamics arises from payload variations, aerodynamic effects and from reaction forces while operating close to the ground or in a confined space. However, existing adaptive control strategies for quadrotors cannot handle unknown state-dependent uncertainties. We address such unsolved control challenge in this work via a novel adaptive method for artificial time delay control, where unknown dynamics is robustly compensated by using input and state measurements collected at immediate past time instant (i.e., artificially delayed). Closed-loop stability is established via Lyapunov theory. The effectiveness of this controller is validated using experimental results*
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BZmfyhEwX4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+#### *Fault Tolerant Drones*
+The Embedded Fault Tolerant Control (EFTC) Group works on fault detection, classification and tolerance/control of UAVs. Our aim is to stabilize and control the multirotor UAV (quad/hexa) in the event of the following faults:
+- Motor faults – when a single motor might have efficiency loss, or might be locked at one RPM
+- Motor failure – when a single motor fails to work completely, resulting in zero thrust
+- Sensor faults – sensor failure, bias drift, data anomaly, etc.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ej7ykshQtVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+#### *Drones for Civil Structures*
+A UAV-based remote sensing system incorporated with computer vision has demonstrated potential for assisting building construction and disaster management, like damage assessment during earthquakes. The vulnerability of a building to an earthquake can be assessed through an inspection that takes into account the expected damage progression of the associated component and the component's contribution to structural system performance. This research thread is primarily focused on estimating salient parameters of physical structures that are necessary for the seismic risk assessment of buildings. Parameters estimated through UAV-based visual remote sensing in conjunction with a post-processing software library include window count, story height, number of stories, the distance between adjacent buildings, rooftop objects, roof area, plan-shape, roof layout, and cracks. 
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/drone_civil.png" class="img-responsive" width="80%" style="float: center"></center>
 
 
 
