@@ -39,4 +39,13 @@
   link: # https://aadilmehdis.github.io/DRACO-Project-Page/
     url: /publications/2022/LADFN
     display: Project Page
+
+- title: "Towards Mission-Specific Characterization of the Diving Performance of an Underwater Glider"
+  authors: Siddharth D, Ridhi P, Nagamanikandan G, Thiyagarajan R, and Asokan T.
+  venue: In OCEANS 2022-Chennai, pp. 1-6. IEEE, 2022
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2022/Siddharth_Underwater-Glider
+    display: Project Page
+  id: ngovindan
+  featured: 1
     
