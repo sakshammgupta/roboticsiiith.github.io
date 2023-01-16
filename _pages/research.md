@@ -98,14 +98,14 @@ Throwing manipulation is known for significantly fast rearrangement, sorting tas
 #### *Multifunctional underactuated mechanism with grasping, perching, and adaptive landing skills for drone applications*
 The underactuated gripper can grasp objects with active actuation and land on any support structure by perching. While perching, the fingers passively conform to the substrate’s geometry. The underactuated design can also keep the drone levelled even on the sloped landing terrains.
 
-<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Perching mechanism.png" class="img-responsive" width="80%" style="float: center"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Perching mechanism.png" class="img-responsive" width="50%" style="float: center"></center>
 
 ---
 
 ## Mobile manipulation
 Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc. 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Mobile Manipulator_RRC.png" class="img-responsive" width="80%" style="float: center"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Mobile Manipulator_RRC.png" class="img-responsive" width="50%" style="float: center"></center>
 
 ---
 

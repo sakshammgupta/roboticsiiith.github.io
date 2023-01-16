@@ -137,7 +137,6 @@
 - title: "Modular Pipe Climber III with Three-Output Open Differential"
   authors: Rama Vadapalli*, Saharsh Agarwal, Vishnu Kumar, Kartik Suryavanshi, 
            Nagamanikandan Govindan, K. Madhava Krishna
-
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
   link: # https://robotics.iiit.ac.in//publications/2021/IROS2021_Rama_Vadapalli_et_al_Pipe_Climber.html
     url: /publications/2021/Vadapalli_Modular-Pipe-Climber
@@ -181,6 +180,8 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9517351
     url: /publications/2021/Kumar_Design
     display: Project Page
+  id: ngovindan
+  featured: 1
 
 - title: "Efficient Manoeuvring of Quadrotor under Constrained Space and Predefined Accuracy"
   authors: Sourish Ganguly, Viswa N. Sankaranarayanan, B. V. S. G. Suraj, Rishabh Dev Yadav, and Spandan Roy

@@ -54,6 +54,14 @@
     url: /publications/2018/Parkhiya_Constructing-Category-Specific-Models
   title: Constructing Category-Specific Models for Monocular Object-SLAM
   venue: ICRA 2018
+- title: "GraspMan-A Novel Robotic Platform with Grasping, Manipulation, and Multimodal Locomotion Capability"
+  authors: Nagamanikandan Govindan, Sai Sourya Varenya Kovvali, Karthik Chandrasekaran, and Asokan Thondiyath
+  venue: In 2018 IEEE International Conference on Robotics and Automation, ICRA 2018
+  link: # https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/11/5/051012/956046/Design-and-Analysis-of-a-Multimodal-Grasper-Having?redirectedFrom=fulltext
+    url: /publications/2018/Nagamani_GraspMan-Novel-Robotic-Platform-with-Grasping
+    display: Project Page
+  id: ngovindan
+  featured: 1
 - authors: Meha Kaushik, Vignesh Prasad, K Madhava Krishna and Balaraman Ravindran
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Meha_et_al_iv18.html
     display: "Project Page"
