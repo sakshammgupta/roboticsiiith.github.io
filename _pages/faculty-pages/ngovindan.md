@@ -27,8 +27,17 @@ Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}
 
 <br>
 ### Research Threads
+Robot design- Mobile manipulation - Hybrid robots – Grasper - Redundant and Underactuated robots - Optimal control - Mechatronic system design.
 
+- `Robot design` - Robotic design is the process of creating a robot or a robotic system. This includes mechanism design, operation process, and circuitry. This integrates functional elements from mechanical, electronics and software disciplines.
+- `Mobile manipulation` - Mobile manipulation refers to a robotic system in which a manipulator is attached to a mobile base. This has advantages of mobile platforms and robotic manipulators by overcoming disadvantages.
+- `Hybrid robots` - These are the robots that are equipped with both legs and wheels (or tracks) which are used in different configurations to perform different kinds of locomotions.
+- `Grasper` - Grasper is a device used for handling, tightening, sliding, holding and releasing objects. It is usually equipped as an end effector to a robotic manipulator.
+- `Redundant and Underactuated robots` - Redundant robot is a robot which has more degrees of freedom than the number of independent control inputs or the number of variables governing its configuration. In contrast, underactuated robots are the complete opposite of redundant robots, they have fewer degrees of freedom than the number of independent control inputs.
+- `Optimal control` - This is a type of mathematical optimization that deals with finding the optimal controls for a controlled dynamic system in a period of time such that an objective function is optimized. 
 <br>
+
+
 ### Apply
 
 <br>
