@@ -113,3 +113,12 @@
   link: #
     url: /publications/2020/Mani_MonoLayout
     display: Project Page
+
+- title: "Design of a Variable Stiffness Joint Module to Quickly Change the Stiffness and to Reduce the Power Consumption"
+  authors: Nagamanikandan Govindan, Shashank Ramesh, and Asokan Thondiyath. 
+  venue: IEEE Access, vol. 8, pp. 138318-138330, July 2020
+  link: # https://ieeexplore.ieee.org/document/9149625
+    url: /publications/2020/Nagamani_Variable-Stiffness-Joint-Module
+    display: Project Page
+  id: ngovindan
+  featured: 1

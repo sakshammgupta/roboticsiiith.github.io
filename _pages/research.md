@@ -84,6 +84,31 @@ The Embedded Fault Tolerant Control (EFTC) Group works on fault detection, class
 A UAV-based remote sensing system incorporated with computer vision has demonstrated potential for assisting building construction and disaster management, like damage assessment during earthquakes. The vulnerability of a building to an earthquake can be assessed through an inspection that takes into account the expected damage progression of the associated component and the component's contribution to structural system performance. This research thread is primarily focused on estimating salient parameters of physical structures that are necessary for the seismic risk assessment of buildings. Parameters estimated through UAV-based visual remote sensing in conjunction with a post-processing software library include window count, story height, number of stories, the distance between adjacent buildings, rooftop objects, roof area, plan-shape, roof layout, and cracks. 
 <center><img src="{{ site.url }}{{ site.baseurl }}images/research/drone_civil.png" class="img-responsive" width="80%" style="float: center"></center>
 
+---
+
+## Robot and mechanism design
+
+Robots don’t need to look like a human or other biological agents. Unconventional robot designs with novel mechanisms can be synthesized to perform multiple functionalities with less design complexity that sometimes may outperform biological agents. RRC is working on different novel robotic designs for manipulation and locomotion – like throwing, perching, adaptive landing, pollination, and so on.
+
+#### *Robot hand capable of grasping and throwing manipulation*
+Throwing manipulation is known for significantly fast rearrangement, sorting tasks, and placing objects outside the limited workspace with less effort. We present a standalone mechanism of a single actuated driven throwing gripper with mechanically coupled rigid links and an elastic gripping surface. This provides the function of grasping, placing, and throwing objects. 
+
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/gripper_throwing_RRC.png" class="img-responsive" width="80%" style="float: center"></center>
+
+#### *Multifunctional underactuated mechanism with grasping, perching, and adaptive landing skills for drone applications*
+The underactuated gripper can grasp objects with active actuation and land on any support structure by perching. While perching, the fingers passively conform to the substrate’s geometry. The underactuated design can also keep the drone levelled even on the sloped landing terrains.
+
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Perching mechanism.png" class="img-responsive" width="50%" style="float: center"></center>
+
+---
+
+## Mobile manipulation
+Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc. 
+
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/Mobile Manipulator_RRC.png" class="img-responsive" width="50%" style="float: center"></center>
+
+---
+
 
 
 ### ... and more.

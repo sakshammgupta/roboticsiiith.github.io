@@ -82,6 +82,14 @@
   title: 'Reconstructing Vechicles from a Single Image: Shape Priors for Road Scene
     Understanding'
   venue: ICRA 2017
+- title: "Improved Planning and Filtering Algorithm for Task-priority Redundancy Resolution in Mobile Manipulation"
+  authors: Nagamanikandan Govindan, and Asokan Thondiyath
+  venue: In 2017 Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics - Volume 2, ICINCO, 2017
+  link: # https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/11/5/051012/956046/Design-and-Analysis-of-a-Multimodal-Grasper-Having?redirectedFrom=fulltext
+    url: /publications/2017/Nagamani_Improved-Planning-and-Filtering-Algorithm-for-Task-priority-Redundancy-Resolution
+    display: Project Page
+  id: ngovindan
+  featured: 1
 - authors: Sheetal Reddy, Vineet Gandhi, K. Madhava Krishna and Suril V. Shah
   link: #http://robotics.iiit.ac.in/people/sheetal.reddy/RPSelectiveObjectSearch/
     display: "Project Page"

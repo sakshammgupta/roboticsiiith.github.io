@@ -22,6 +22,16 @@
     url: /publications/2019/Bhatt_Probabilistic-Obstacle-Avoidance
     display: Project Page
 
+- title: "Design and Analysis of a Multimodal Grasper Having Shape Conformity and Within-Hand Manipulation With Adjustable Contact Forces"
+  authors: Nagamanikandan Govindan, and Asokan Thondiyath 
+
+  venue: Transactions of ASME. Journal of Mechanisms and Robotics, 11(5), p 051012, October 2019
+  link: # https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/11/5/051012/956046/Design-and-Analysis-of-a-Multimodal-Grasper-Having?redirectedFrom=fulltext
+    url: /publications/2019/Nagamani_Design-and-Analysis-of-a-Multimodal-Grasper
+    display: Project Page
+  id: ngovindan
+  featured: 1
+
 - title: "IVO: Inverse Velocity Obstacles for Real Time Navigation"
   authors: "P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava Krishna"
 
