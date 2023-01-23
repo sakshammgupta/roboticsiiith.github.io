@@ -1,0 +1,27 @@
+- title: "Sequence-Agnostic Multi-Object Navigation"
+  authors:  Nandiraju Gireesh, Ayush Agrawal, Ahana Datta, Snehasis Banerjee, Mohan Sridharan, Brojeshwar Bhowmick, Madhava Krishna
+  venue: ICRA 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Gireesh_MultiON
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping"
+  authors:  Bipasha Sen, Aditya Agarwal, Gaurav Singh, Brojeshwar B., Srinath Sridhar, Madhava Krishna
+  venue: ICRA 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Bipasha_SCARP
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "GDIP: Object-Detection in Adverse Weather Conditions Using Gated Differentiable Image Processing"
+  authors: S Sanket Kalwar, Dhruv Patel, Aakash Aanegola, Krishna Reddy Konda, Sourav Garg, K Madhava Krishna
+  venue: ICRA 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Sanket_GDIP
+    display: Project Page
+  id: mkrishna
+  featured: 1
+    
