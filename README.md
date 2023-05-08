@@ -18,9 +18,10 @@ Copyright Allan Lab. Code released under the MIT License.
 
 ### Serving on IIITH Server
 - SSH into the website server
+- `cd` into the repo 
 - Pull latest changes from GitHub
 - Run `bundle exec jekyll build`
 - This will build the site in `_site` folder
-- Copy the contents of `_site` in `/var/www/html`
+- Copy the contents of `_site` in `/var/www/html` (`/usr/bin/cp -R _site/* /var/www/html`)
 - Your latest changes will now be reflected on https://robotics.iiit.ac.in
 
