@@ -10,7 +10,7 @@ affiliations:
   - name: IIT Madras, India
     link: https://ed.iitm.ac.in/~robotics_lab/index.html
     sup: 1
-permalink: /publications/2017/Nagamani_Improved-Planning-and-Filtering-Algorithm-for-Task-priority-Redundancy-Resolution
+permalink: /publications/2017/Nagamani_Improved-Planning-and-Filtering-Algorithm-for-Task-priority-Redundancy-Resolution/
 abstract: "Discrete time implementation of task-priority redundancy resolution using closed loop inverse kinematics with fixed sampling time may lead to discretization chatter. The chattering effect is due to switching between different closed loop behaviours whenever the corresponding external event has occurred. This effect causes high frequency oscillation with finite frequency and amplitude in both joint space motion and operational space motion which is highly undesired. In this paper, we propose a planning and filtering algorithm to improve the robustness of task-priority redundancy resolution without having the effect of chattering, while combining multiple closed loop behaviours. We also show how the null space projection in task- priority control affects the operational space motion while switching between the behaviours. To demonstrate the effectiveness of the proposed algorithm, three different case studies are presented for a planar mobile manipulator with holonomic constraint. The results confirm that the proposed algorithm eliminates the chatter and moves the end effector on a smooth trajectory."
 paper: https://www.scitepress.org/Papers/2017/64020/
 #code: https://github.com/sudarshan-s-harithas/CCO-VOXEL 

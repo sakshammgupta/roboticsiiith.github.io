@@ -14,7 +14,7 @@ affiliations:
   - name: IIT Madras, India
     link: https://ed.iitm.ac.in/~robotics_lab/index.html
     sup: 1
-permalink: /publications/2018/Nagamani_GraspMan-Novel-Robotic-Platform-with-Grasping
+permalink: /publications/2018/Nagamani_GraspMan-Novel-Robotic-Platform-with-Grasping/
 abstract: "In this paper, we present the design of a novel, hybrid multipurpose robotic platform equipped with a pair of graspers to synergize grasping, manipulation, and locomotion. The multipurpose grasper consists of two underactuated fingers with an active gripping surface, which passively conforms to an object while grasping. Each finger has a spring loaded synchronous belt drive which functions as the active gripping surface. The grasper is capable of handling a range of objects with irregular geometry and size. Two such underactuated graspers are connected through a serial kinematic chain and this provides the platform both manipulation and locomotion capability. Graspers act as “legs” or “wheels” of the robot during locomotion and can easily adapt to terrain variations. Fewer number of actuators, simple and scalable kinematic structure, and computationally efficient control are some of the main features of the design. Design details and kinematic analysis are presented. Experiments were conducted on a prototype robot to demonstrate multiple modes of operation."
 paper: https://ieeexplore.ieee.org/document/8462970
 #code: https://github.com/sudarshan-s-harithas/CCO-VOXEL 

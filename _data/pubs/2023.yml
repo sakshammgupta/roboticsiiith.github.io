@@ -1,3 +1,30 @@
+- title: "Conceptfusion: Open-set multimodal 3d mapping"
+  authors:  Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba
+  venue: RSS 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/KM_ConceptFusion
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields"
+  authors:  Rohith Agaram, Shaurya Dewan, Rahul Sajnani, Adrien Poulenard, Madhava Krishna, Srinath Sridhar
+  venue: CVPR 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Rohith_CanonicalFields
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Ground then Navigate: Language-guided Navigation in Dynamic Scenes"
+  authors:  Kanishk Jain, Varun Chhangani, Amogh Tiwari, K Madhava Krishna, Vineet Gandhi
+  venue: ICRA 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Kanishk_LGN
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Sequence-Agnostic Multi-Object Navigation"
   authors:  Nandiraju Gireesh, Ayush Agrawal, Ahana Datta, Snehasis Banerjee, Mohan Sridharan, Brojeshwar Bhowmick, Madhava Krishna
   venue: ICRA 2023

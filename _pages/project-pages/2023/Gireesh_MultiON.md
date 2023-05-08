@@ -20,7 +20,7 @@ affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-permalink: /publications/2023/Gireesh_MultiON
+permalink: /publications/2023/Gireesh_MultiON/
 abstract: "This paper focuses on the Multi-Object Navigation (MultiON) task, which requires a robot to localize an instance (each) of multiple object classes. This is a fundamental task for an assistive robot in a home or a factory. Existing methods for this task have viewed this as a direct extension of Object Navigation (ON), the task of localising a single instance of an object class, and are pre-sequenced, i.e., the sequence in which the object classes are to be explored is provided in advance. This is a strong limitation in practical applications characterized by dynamic changes. Our deep reinforcement learning framework for sequence-agnostic MultiON, on the other hand, is based on an actor-critic architecture and a reward specification that exploits past experiences and seeks to reward progress towards individual as well as multiple target object classes. We use photo-realistic scenes from Gibson benchmark dataset in the AI Habitat 3D simulation environment to experimentally show that our method performs better than a pre-sequenced approach and a state of the art ON method extended to MultiON."
 paper: https://ieeexplore.ieee.org/document/9775285
 #code: https://github.com/sudarshan-s-harithas/CCO-VOXEL 
