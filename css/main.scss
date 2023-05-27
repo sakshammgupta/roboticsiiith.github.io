@@ -138,11 +138,42 @@ firstp {
     background-color: rgba(255,255,255,0.5);
 }
 
-.eu-funding-logo {
-    display: flex;
-    justify-content: center;
-  }
+// .eu-funding-logo {
+//     display: flex;
+//     justify-content: center;
+//   }
 
-.eu-funding-logo img {
-max-width: 100%;
+// .eu-funding-logo img {
+// max-width: 100%;
+// }
+
+
+// .iras-hub-logo {
+//     // display: flex;
+// 	flex: 1;
+//     justify-content: center;
+//   }
+
+// .iras-hub-logo img {
+// max-width: 30%;
+
+// }
+
+.eu-header-row {
+	display: flex;
 }
+
+.col1 {
+	flex: 1;
+	padding: 10px;
+	// justify-content: center;
+  }
+  
+  .col1 img {
+	max-width: 50%;
+	// justify-content: center;
+	}
+  
+  
+  
+

@@ -14,12 +14,19 @@ permalink: /eufunding/
 
 
 <!-- ![Image Alt Text](/images/eufunding/eaceaPicture1.png) -->
+<div class='eu-header-row'>
+<div class="col1">
 
-<div class="eu-funding-logo">
+  ![Image Alt Text](/images/eufunding/iras_hub.png)
+
+</div>
+
+<div class="col1">
   ![Image Alt Text](/images/eufunding/eaceaPicture1.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
   <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
 </div>
 
+</div>
 
 
 The project **Capacity Building in Robotics Autonomous Systems in India (IRAS- HUB)**, led by IIIT-Delhi, aims to establish three hubs in Robotics and Autonomous Systems (RAS) in India to overcome the sparsity of skilled talent in robotics technology. The Hubs will be equipped with prototyping equipment and robotics software and will train researchers from Indian Higher Education Institutions (HEIs) in RAS with experts from EU HEIs. IRAS-HUB is funded by European Education and Culture Executive Agency for three years (2023-2025) with ~ 800,000 Euros and involves ten partners from 5 different countries, including four HEIs from India. The partner organizations are:
