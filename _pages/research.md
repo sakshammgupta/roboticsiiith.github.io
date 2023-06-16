@@ -11,23 +11,34 @@ The following is a non-exhaustive list of the research areas and projects at RRC
 
 ---
 
+
+
+
 ## Autonomous Driving
 
 
 #### *Self-Driving Car*
 Our lab has a custom-built self-driving stack for our Mahinda E2O vehicle. The stack comprises modular perception, planning, and control modules. We also have an on-campus shuttle-like service where the car is capable of autonomous pickup and drop-off. Our larger aim is to provide a research platform for self-driving that implements the complete tech stack with plug-and-play modules that will allow researchers to test new algorithms quickly at any layer of the stack on a real car. We have made strides in that area under the project **AutoDP**. Find out more about AutoDP [here]({{ site.url }}{{ site.baseurl }}/auto_dp).
 
-<center>
+<div class="video">
+<div class="video__youtube" data-youtube>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CkE3XBNgIe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://i.ytimg.com/vi/5RkL6tqjCjM/maxresdefault.jpg" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://www.youtube.com/embed/5RkL6tqjCjM" >
+</button>
+</div>
+<center>Language Guided Open-Set Navigation</center>
+
+</div>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CkE3XBNgIe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnHEcHdM6I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BwRe8JeU78g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YFLZsqDkHcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFLZsqDkHcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-</center>
 
 <br>
 
