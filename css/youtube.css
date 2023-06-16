@@ -49,11 +49,11 @@
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background: url(https://robotics.iiit.ac.in/images/yt/yt_logo.png) no-repeat center center;
+    background: url(https://roboticsiiith.github.io/images/yt/yt_logo.png) no-repeat center center;
     background-size: 10%; 
 }
 
 .video__button:hover:before {
-    background: url(https://robotics.iiit.ac.in/images/yt/yt_logo_light.png) no-repeat center center;
+    background: url(https://roboticsiiith.github.io/images/yt/yt_logo_light.png) no-repeat center center;
     background-size: 10%; 
 }
